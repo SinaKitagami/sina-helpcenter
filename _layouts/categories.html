@@ -1,0 +1,33 @@
+{% include head.html %}
+
+<body>
+    {% include header.html %}
+
+    <ul class="breadcrumbs">
+        <li class="page-item"><a href="/" class="page-link">ヘルプセンター</a></li>
+        <li class="page-item"><a href="/category/{{page.category}}" class="page-link">{{page.title}}</a></li>
+    </ul>
+
+    <section class="main_article">
+        <h1>カテゴリ「{{page.title}}」に属する記事</h1>
+        <hr>
+        <div class="main_article_content">
+            {% for category in site.categories %}
+                {% capture name %}{{ category[0] }}{% endcapture %}
+                    <p>{{ site.categories[name] | size }}個の記事がカテゴリに属しています。</p>
+                    <ul class="posts">
+                        {% for post in site.categories[name] %}
+                            <li>
+                                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                                <span class="post-date">{{ post.date | date:"%Y/%-m/%d" }}</span>
+                            </li>
+                        {% endfor %}
+                    </ul>
+            {% endfor %}
+        </div>
+    </section>
+
+    {% include footer.html %}
+</body>
+
+</html>

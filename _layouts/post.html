@@ -1,0 +1,26 @@
+{% include head.html %}
+
+<body>
+    {% include header.html %}
+    
+    <ul class="breadcrumbs">
+        <li class="page-item"><a href="/" class="page-link">ヘルプセンター</a></li>
+        <li class="page-item"><a href="/category/{{page.category}}" class="page-link">{{page.category}}</a></li>
+        <li class="page-item"><a href="#" class="page-link">{{post.title}}</a></li>
+    </ul>
+
+    <section class="main_article">
+        <h1>{{page.title}}</h1>
+        <p>{{page.category}} | {{ page.date | date:"%Y/%-m/%d" }}</p>
+        <hr>
+        <div class="main_article_content">
+            {{content}}
+        </div>
+        <hr>
+        <h4>解決しなかった時は...</h4>
+        <p>他の記事を検索するもしくはサポートサーバーをご利用ください。<br>障害などの情報は<a href="https://twitter.com/sina_chan_dbot">Twitter</a>でもお知らせしています。</p>
+    </section>
+
+    {% include footer.html %}
+</body>
+</html>

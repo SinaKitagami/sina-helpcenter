@@ -1,0 +1,10 @@
+<script src="/assets/js/simple-jekyll-search.js"></script>
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>',
+  noResultsText: '検索結果が見つかりませんでした。'
+})
+</script>

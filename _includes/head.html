@@ -1,0 +1,56 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ja" dir="ltr">
+<head>
+  <meta charset="utf-8">
+
+  {% if page.title %}
+  <title>{{ page.title }} - {{ site.title }}</title>
+  {% else %}
+  <title>{{ site.title }}</title>
+  {% endif %}
+
+  {% if page.title %}
+  <meta property="og:title"  content="{{ page.title }} - {{ site.title }}" />
+  <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
+  {% else %}
+  <meta property="og:title"  content="{{ site.title }}" />
+  <meta name="twitter:title" content="{{ site.title }}">
+  {% endif %}
+
+  {% if page.description %}
+  <meta name="description"         content="{{ page.description | liquify }}" />
+  <meta name="twitter:description" content="{{ page.description | liquify }}" />
+  <meta property="og:description"  content="{{ page.description | liquify }}" />
+  {% else %}
+  <meta name="description"         content="{{ site.description }}" />
+  <meta name="twitter:description" content="{{ site.description }}" />
+  <meta property="og:description"  content="{{ site.description }}" />
+  {% endif %}
+  <link rel="stylesheet" href="https://cdn.korzh.com/metroui/v4/css/metro-all.min.css">
+  {% if page.layout == 'post' or page.layout == 'categories' %}
+  <link rel="stylesheet" href="/assets/css/article.css?v=2" />
+  {% elsif page.url contains '/category' %}
+  <link rel="stylesheet" href="/assets/css/category.css?v=2" />
+  {% else %}
+  <link rel="stylesheet" href="/assets/css/top.css" />
+  {% endif %}
+  <link rel="stylesheet" href="/assets/css/common.css?v=5">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700&display=swap" rel="stylesheet">
+
+  <meta property="og:url"       content="{{ page.url | absolute_url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type"      content="website" />
+  <meta property="og:locale"    content="ja_JP"   />
+
+  <!-- Twitter Card (Static) -->
+  <meta name="twitter:site"  content="@sina_chan_dbot" />
+  <meta name="msapplication-TileColor" content="#1AC0AA">
+  <meta name="theme-color"             content="#1AC0AA">
+</head>
+{% include search.html %}
+<script src="https://cdn.korzh.com/metroui/v4/js/metro.min.js"></script>
