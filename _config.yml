@@ -43,13 +43,9 @@ plugins:
 lang: ja-jp
 
 jekyll-archives:
-  enabled: [all]
+  enabled: [categories, category]
   layout: category
   permalinks:
-    year: '/year/:year/'
-    month: '/month/:year:month/'
-    day: '/month/:year:month:day/'
-    tag: '/tag/:name/'
     category: '/category/:name/'
 
 # Exclude from processing.

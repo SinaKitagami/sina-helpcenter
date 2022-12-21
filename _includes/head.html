@@ -30,9 +30,10 @@
   <meta property="og:description"  content="{{ site.description }}" />
   {% endif %}
   <link rel="stylesheet" href="/assets/css/metro-all.min.css">
-  {% if page.layout == 'post' or page.layout == 'categories' %}
+  {% if page.layout == 'post' %}
   <link rel="stylesheet" href="/assets/css/article.css?v=2" />
-  {% elsif page.url contains '/category' %}
+  {% elsif page.url contains '/category/' %}
+  <link rel="stylesheet" href="/assets/css/article.css?v=2" />
   <link rel="stylesheet" href="/assets/css/category.css?v=2" />
   {% else %}
   <link rel="stylesheet" href="/assets/css/top.css" />
