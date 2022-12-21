@@ -18,6 +18,11 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-archives'
   gem 'jekyll-compose'
+  gem 'jekyll_picture_tag', '~> 2.0'
+  gem 'jekyll-gist'
+  gem 'jekyll-twitter-plugin'
+  gem 'jekyll_version_plugin'
+  gem 'jekyll-sitemap'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
