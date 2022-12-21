@@ -17,6 +17,7 @@ For: /index.html
 .search-list{
     min-height: 100px;
     max-height: 200px;
+    display:none;
     margin: 0;
     padding: 0;
     list-style: none inside;
