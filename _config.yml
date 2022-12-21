@@ -43,13 +43,14 @@ plugins:
 lang: ja-jp
 
 jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: categories
-    tag: categories
+  enabled: [all]
+  layout: category
   permalinks:
-    tag: /tags/:name/
-    category: /category/:name/
+    year: '/year/:year/'
+    month: '/month/:year:month/'
+    day: '/month/:year:month:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
