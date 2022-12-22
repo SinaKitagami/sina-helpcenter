@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://api.sina-chan/test/welcome-to-jekyll</loc>
+<loc>https://api.sina-chan/category/test/welcome-to-jekyll</loc>
 <lastmod>2022-12-20T12:14:17+00:00</lastmod>
 </url>
 <url>
-<loc>https://api.sina-chan/discord/what-is-linkedrole</loc>
+<loc>https://api.sina-chan/category/discord/what-is-linkedrole</loc>
 <lastmod>2022-12-21T15:20:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://api.sina-chan/about/</loc>
 </url>
 <url>
 <loc>https://api.sina-chan/category.html</loc>
