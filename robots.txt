@@ -1,1 +1,1 @@
-Sitemap: https://api.sina-chan/sitemap.xml
+Sitemap: https://api.sina-chan.com/sitemap.xml
