@@ -1,0 +1,14 @@
+---
+layout: categories
+title: カテゴリ一覧
+description: サポートページのカテゴリ一覧です。
+---
+
+<p>ヘルプが必要なカテゴリを選択してください。</p>
+
+<ul>
+    {% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+        <li><a href="{{site.base}}/category/{{category_name}}">{{ category_name }}</a></li>
+    {% endfor %}
+</ul>

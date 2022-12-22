@@ -1,0 +1,21 @@
+{% include head.html %}
+
+<body>
+    {% include header.html %}
+    
+    <ul class="breadcrumbs">
+        <li class="page-item"><a href="/" class="page-link">ヘルプセンター</a></li>
+        <li class="page-item">カテゴリ一覧</li>
+    </ul>
+
+    <section class="main_article">
+        <h1>{{page.title}}</h1>
+        <hr>
+        <div class="main_article_content">
+            {{content}}
+        </div>
+    </section>
+
+    {% include footer.html %}
+</body>
+</html>
