@@ -1,0 +1,162 @@
+
+
+<!DOCTYPE html>
+
+<html lang="ja" dir="ltr">
+<head>
+  <meta charset="utf-8">
+
+  
+  <title>思惟奈ちゃんヘルプセンター</title>
+  
+
+  
+  <meta property="og:title"  content="思惟奈ちゃんヘルプセンター" />
+  <meta name="twitter:title" content="思惟奈ちゃんヘルプセンター">
+  
+
+  
+  <meta name="description"         content="Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。" />
+  <meta name="twitter:description" content="Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。" />
+  <meta property="og:description"  content="Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。" />
+  
+  <link rel="stylesheet" href="/assets/css/metro-all.min.css">
+  
+  <link rel="stylesheet" href="/assets/css/top.css" />
+  
+  <link rel="stylesheet" href="/assets/css/common.css?v=5">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="shortcut icon" href="/assets/img/icon.png">
+
+  <meta property="og:url"       content="https://api.sina-chan/" />
+  <meta property="og:site_name" content="思惟奈ちゃんヘルプセンター" />
+  <meta property="og:type"      content="website" />
+  <meta property="og:locale"    content="ja_JP"   />
+
+  <!-- Twitter Card (Static) -->
+  <meta name="twitter:site"  content="@sina_chan_dbot" />
+  <meta name="msapplication-TileColor" content="#1AC0AA">
+  <meta name="theme-color"             content="#1AC0AA">
+</head>
+<script src="/assets/js/simple-jekyll-search.js"></script>
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('result-list'),
+  json: '/search.json',
+  searchResultTemplate: '<div class="search-item"><p><a href="https://api.sina-chan{url}">{title}</a></p></div>',
+  noResultsText: '<h3>検索結果が見つかりませんでした。</h3>'
+})
+</script>
+<script src="/assets/js/metro.min.js"></script>
+
+
+<body>
+    <div data-role="appbar" class="navbar">
+    <a href="/" class="header-logo brand no-hover">
+        <img src="/assets/img/sinalogo.png" alt="ヘルプセンター" width="130" height="30">　ヘルプセンター
+        </a>
+    <a href="https://sina-chan.com" class="brand ml-auto">公式サイト</a>
+</div>
+    <div class="main">
+        <header class="header" role="heading">
+    <div class="card">
+        <div class="card-content">
+            <div class="search">
+                <h2>何かお困りですか?</h2>
+                <h4>ヘルプ記事を検索してみましょう!</h4>
+                <form>
+                    <input type="text" id="search-input" data-role="input" placeholder="検索したい言葉を入力..." />
+                </form>
+                <div id="result-list" class="search-list"></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="main_categories">
+    <h3>カテゴリから探す</h3>
+    <p>サポート記事をカテゴリ別に確認できます。</p>
+    <hr />
+    <div class="row">
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box category_fg">
+                <div class="content">
+                    <h3 class="text-bold mb-0">グローバルチャット</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-chat category_fg"></span>
+                </div>
+                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box category_fg">
+                <div class="content">
+                    <h3 class="text-bold mb-0">レベル機能</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-arrow-up category_fg"></span>
+                </div>
+                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box category_fg"> <!-- https://metroui.org.ua/colors.html 有効色 -->
+                <div class="content">
+                    <h3 class="text-bold mb-0">サーバー管理</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-server category_fg"></span> <!-- https://metroui.org.ua/icons.html ただしFontAwesomeなども互換性あり -->
+                </div>
+                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+    </div>
+    <!--
+        以下必要に応じて追加 いくつでも追加できます
+
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box bg-red fg-white">
+                <div class="content">
+                    <h3 class="text-bold mb-0"></h3>
+                </div>
+                <div class="icon">
+                    <span class=""></span> 
+                </div>
+                <a href="" class="more"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+    </div>
+
+    -->
+</section>
+
+    </div>
+
+    <div class="spacer" style="height:100px;"></div>
+
+<hr>
+<footer>
+    <div class="row flex-align-center">
+        <div class="cell-md-5 text-center-md text-left">
+            <ul class="inline-list reduce-2">
+                <li>© 2020-2022, Team Sina.</li>
+            </ul>
+        </div>
+        <div class="cell-md-2 text-center">
+            <div>
+                <a href="" class="no-decor"><img src="/assets/img/sinalogo.png" alt="思惟奈ちゃんヘルプセンター" width="130" height="30"></a>
+            </div>
+        </div>
+        <div class="cell-md-5 text-center-md text-left">
+            <ul class="inline-list reduce-2">
+                <li><a href="https://sina-chan.com">公式サイト</a></li>
+                <li><a href="">サポートサーバー</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+</body>
+
+</html>
