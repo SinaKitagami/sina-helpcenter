@@ -32,7 +32,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: /:categories/:title
+      permalink: /category/:categories/:title
 
 theme: minima
 
@@ -48,6 +48,7 @@ lang: ja-jp
 jekyll-archives:
   enabled: [categories, category]
   layout: category
+  slug_mode: latin
   permalinks:
     category: '/category/:name/'
 
