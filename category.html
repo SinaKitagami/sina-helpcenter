@@ -7,22 +7,23 @@
   <meta charset="utf-8">
 
   
-  <title>思惟奈ちゃんヘルプセンター</title>
+  <title>カテゴリ一覧 - 思惟奈ちゃんヘルプセンター</title>
   
 
   
-  <meta property="og:title"  content="思惟奈ちゃんヘルプセンター" />
-  <meta name="twitter:title" content="思惟奈ちゃんヘルプセンター">
+  <meta property="og:title"  content="カテゴリ一覧 - 思惟奈ちゃんヘルプセンター" />
+  <meta name="twitter:title" content="カテゴリ一覧 - 思惟奈ちゃんヘルプセンター">
   
 
   
-  <meta name="description"         content="Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。" />
-  <meta name="twitter:description" content="Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。" />
-  <meta property="og:description"  content="Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。" />
+  <meta name="description"         content="サポートページのカテゴリ一覧です。" />
+  <meta name="twitter:description" content="サポートページのカテゴリ一覧です。" />
+  <meta property="og:description"  content="サポートページのカテゴリ一覧です。" />
   
   <link rel="stylesheet" href="/assets/css/metro-all.min.css">
   
-  <link rel="stylesheet" href="/assets/css/top.css" />
+  <link rel="stylesheet" href="/assets/css/article.css?v=2" />
+  <link rel="stylesheet" href="/assets/css/category.css?v=2" />
   
   <link rel="stylesheet" href="/assets/css/common.css?v=5">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -44,8 +45,9 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('result-list'),
   json: '/search.json',
-  searchResultTemplate: '<div class="search-item"><p><a href="https://api.sina-chan{url}">{title}</a></p></div>',
-  noResultsText: '<h3>検索結果が見つかりませんでした。</h3>'
+  searchResultTemplate: '<li><a href="{permalink}">{title}</a></li>',
+  noResultsText: '<h3>検索結果が見つかりませんでした。</h3>',
+  limit:20,
 })
 </script>
 <script src="/assets/js/metro.min.js"></script>
@@ -58,10 +60,29 @@ SimpleJekyllSearch({
         </a>
     <a href="https://sina-chan.com" class="brand ml-auto">公式サイト</a>
 </div>
-    <div class="main">
-        
+    
+    <ul class="breadcrumbs">
+        <li class="page-item"><a href="/" class="page-link">ヘルプセンター</a></li>
+        <li class="page-item">カテゴリ一覧</li>
+    </ul>
 
-    </div>
+    <section class="main_article">
+        <h1>カテゴリ一覧</h1>
+        <hr>
+        <div class="main_article_content">
+            <p>ヘルプが必要なカテゴリを選択してください。</p>
+
+<ul>
+    
+    
+        <li><a href="/category/test">test</a></li>
+    
+    
+        <li><a href="/category/Discord">Discord</a></li>
+    
+</ul>
+        </div>
+    </section>
 
     <div class="spacer" style="height:100px;"></div>
 
@@ -70,7 +91,7 @@ SimpleJekyllSearch({
     <div class="row flex-align-center">
         <div class="cell-md-5 text-center-md text-left">
             <ul class="inline-list reduce-2">
-                <li>© 2020-2022, Team Sina.</li>
+                <li>© 2020-2022, Team Sina. | Last Build: efbdd46</li>
             </ul>
         </div>
         <div class="cell-md-2 text-center">
@@ -87,5 +108,4 @@ SimpleJekyllSearch({
     </div>
 </footer>
 </body>
-
 </html>

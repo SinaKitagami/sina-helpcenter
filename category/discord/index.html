@@ -45,8 +45,9 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('result-list'),
   json: '/search.json',
-  searchResultTemplate: '<div class="search-item"><p><a href="https://api.sina-chan{url}">{title}</a></p></div>',
-  noResultsText: '<h3>検索結果が見つかりませんでした。</h3>'
+  searchResultTemplate: '<li><a href="{permalink}">{title}</a></li>',
+  noResultsText: '<h3>検索結果が見つかりませんでした。</h3>',
+  limit:20,
 })
 </script>
 <script src="/assets/js/metro.min.js"></script>
@@ -88,7 +89,7 @@ SimpleJekyllSearch({
     <div class="row flex-align-center">
         <div class="cell-md-5 text-center-md text-left">
             <ul class="inline-list reduce-2">
-                <li>© 2020-2022, Team Sina.</li>
+                <li>© 2020-2022, Team Sina. | Last Build: efbdd46</li>
             </ul>
         </div>
         <div class="cell-md-2 text-center">
