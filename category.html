@@ -9,6 +9,6 @@ description: サポートページのカテゴリ一覧です。
 <ul>
     {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
-        <li><a href="{{site.base}}/category/{{category_name}}">{{ category_name }}</a></li>
+        <li><a href="{{site.base}}/category/{{category_name| slugify }}">{{ category_name }}</a></li>
     {% endfor %}
 </ul>
