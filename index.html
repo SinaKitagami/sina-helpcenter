@@ -61,16 +61,85 @@ SimpleJekyllSearch({
     <a href="https://sina-chan.com" class="brand ml-auto">公式サイト</a>
 </div>
     <div class="main">
-        <div class="home">
-<h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Dec 21, 2022</span>
-        <h3>
-          <a class="post-link" href="/category/discord/what-is-linkedrole">
-            Linked Roleとは何ですか
-          </a>
-        </h3></li></ul>
+        <header class="header" role="heading">
+    <div class="card">
+        <div class="card-content">
+            <div class="search">
+                <h2>何かお困りですか?</h2>
+                <h4>ヘルプ記事を検索してみましょう!</h4>
+                <form>
+                    <input type="text" id="search-input" data-role="input" placeholder="検索したい言葉を入力..." />
+                </form>
+                <div id="result-list" class="search-list"></div>
+            </div>
+        </div>
+    </div>
+</header>
 
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
+<section class="main_categories">
+    <h3>カテゴリから探す</h3>
+    <p>サポート記事をカテゴリ別に確認できます。</p>
+    <hr />
+    <div class="row">
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box category_fg">
+                <div class="content">
+                    <h3 class="text-bold mb-0">グローバルチャット</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-chat category_fg"></span>
+                </div>
+                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box category_fg">
+                <div class="content">
+                    <h3 class="text-bold mb-0">レベル機能</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-arrow-up category_fg"></span>
+                </div>
+                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box category_fg"> <!-- https://metroui.org.ua/colors.html 有効色 -->
+                <div class="content">
+                    <h3 class="text-bold mb-0">サーバー管理</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-server category_fg"></span> <!-- https://metroui.org.ua/icons.html ただしFontAwesomeなども互換性あり -->
+                </div>
+                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+    </div>
+    <!--
+        以下必要に応じて追加 いくつでも追加できます
+
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box bg-red fg-white">
+                <div class="content">
+                    <h3 class="text-bold mb-0"></h3>
+                </div>
+                <div class="icon">
+                    <span class=""></span> 
+                </div>
+                <a href="" class="more"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+    </div>
+
+    -->
+    <hr />
+    <h3>最近更新された記事</h3>
+    <ul>
+        
+            <li><a href="/category/discord/what-is-linkedrole">Linked Roleとは何ですか</a></li>
+        
+    </ul>
+</section>
 
     </div>
 
@@ -81,7 +150,7 @@ SimpleJekyllSearch({
     <div class="row flex-align-center">
         <div class="cell-md-5 text-center-md text-left">
             <ul class="inline-list reduce-2">
-                <li>© 2020-2022, Team Sina. | Last Build: 4fb7d1f</li>
+                <li>© 2020-2022, Team Sina. | Last Build: 0542da6</li>
             </ul>
         </div>
         <div class="cell-md-2 text-center">
