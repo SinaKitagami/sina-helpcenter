@@ -9,7 +9,7 @@ description:
         <div class="card-content">
             <div class="search">
                 <h2>何かお困りですか?</h2>
-                <h4>ヘルプ記事を検索してみましょう!</h4>
+                <h4>私たちがお手伝いします</h4>
                 <form>
                     <input type="text" id="search-input" data-role="input" placeholder="検索したい言葉を入力...">
                 </form>
@@ -21,7 +21,7 @@ description:
 
 <section class="main_categories">
     <h3>カテゴリから探す</h3>
-    <p>サポート記事をカテゴリ別に確認できます。</p>
+    <p>サポートトピックをカテゴリ別に確認できます。</p>
     <hr>
     <div class="row">
         <div class="cell-12 cell-md-4">
@@ -76,10 +76,10 @@ description:
 
     -->
     <hr>
-    <h3>最近更新された記事</h3>
+    <h3>最近の記事</h3>
     <ul>
         {% for post in site.posts limit:5 %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <p>{{post.date | date:"%Y/%-m/%d" }} - <a href="{{ post.url }}">{{ post.title }}</a></p>
         {% endfor %}
     </ul>
 </section>
