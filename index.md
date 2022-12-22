@@ -13,7 +13,7 @@ description:
                 <form>
                     <input type="text" id="search-input" data-role="input" placeholder="検索したい言葉を入力...">
                 </form>
-                <ul id="result-list" class="search-list"></ul>
+                <div id="result-list" class="search-list"></div>
             </div>
         </div>
     </div>

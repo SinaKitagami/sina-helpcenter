@@ -4,7 +4,7 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('result-list'),
   json: '/search.json',
-  searchResultTemplate: '<li><a href="{permalink}">{title}</a></li>',
+  searchResultTemplate: '<div class="search-item"><a href="{{ site.url }}{url}">{title}</a></div>',
   noResultsText: '<h3>検索結果が見つかりませんでした。</h3>',
   limit:20,
 })
