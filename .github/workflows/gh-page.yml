@@ -11,6 +11,7 @@ jobs:
       uses: ruby/setup-ruby@v1.128.0
       with:
         ruby-version: '3.1.2'
+        bundler-cache: true
     - name: Install libvips
       run: |
         sudo apt install libvips
@@ -18,8 +19,6 @@ jobs:
       run: |
         bundle config set path 'vendor/bundle'
         bundle install
-      with:
-        bundler-cache: true
     - name: Jekyll Build
       run: bundle exec jekyll build
     - name: Deploy
