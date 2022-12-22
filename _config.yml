@@ -23,7 +23,7 @@ email: info@sina-chan.com
 description: >- # this means to ignore newlines until "baseurl:"
   Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://api.sina-chan" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://api.sina-chan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sina_chan_dbot
 github_username:  SinaKitagami
 
