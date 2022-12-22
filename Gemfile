@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll_picture_tag', '~> 2.0'
   gem 'jekyll-gist'
   gem 'jekyll-twitter-plugin'
+  gem 'jekyll_version_plugin'
   gem 'jekyll-sitemap'
 end
 
