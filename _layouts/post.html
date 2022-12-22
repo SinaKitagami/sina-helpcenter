@@ -5,7 +5,7 @@
     
     <ul class="breadcrumbs">
         <li class="page-item"><a href="/" class="page-link">ヘルプセンター</a></li>
-        <li class="page-item"><a href="/category/{{page.category}}" class="page-link">{{page.category}}</a></li>
+        <li class="page-item"><a href="/category/{{page.category| slugify }}" class="page-link">{{page.category}}</a></li>
         <li class="page-item"><a href="#" class="page-link">{{post.title}}</a></li>
     </ul>
 
