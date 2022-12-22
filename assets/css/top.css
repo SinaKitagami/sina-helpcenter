@@ -33,6 +33,7 @@ For: /index.html
     z-index: 3;
     border-radius: 20px;
     color:#000;
+    text-align: center;
 }
 .search-item{
     margin:20px;
