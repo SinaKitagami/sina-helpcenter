@@ -27,36 +27,26 @@ description:
         <div class="cell-12 cell-md-4">
             <div class="more-info-box category_fg">
                 <div class="content">
-                    <h3 class="text-bold mb-0">グローバルチャット</h3>
+                    <h3 class="text-bold mb-0">設定方法</h3>
                 </div>
                 <div class="icon">
-                    <span class="mif-chat category_fg"></span>
+                    <span class="mif-cog category_fg"></span>
                 </div>
-                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+                <a href="/category/設定" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
             </div>
         </div>
         <div class="cell-12 cell-md-4">
             <div class="more-info-box category_fg">
                 <div class="content">
-                    <h3 class="text-bold mb-0">レベル機能</h3>
+                    <h3 class="text-bold mb-0">プレミアムプラン</h3>
                 </div>
                 <div class="icon">
-                    <span class="mif-arrow-up category_fg"></span>
+                    <span class="mif-star-full category_fg"></span>
                 </div>
-                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+                <a href="/category/プレミアムプラン" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
             </div>
         </div>
-        <div class="cell-12 cell-md-4">
-            <div class="more-info-box category_fg"> <!-- https://metroui.org.ua/colors.html 有効色 -->
-                <div class="content">
-                    <h3 class="text-bold mb-0">サーバー管理</h3>
-                </div>
-                <div class="icon">
-                    <span class="mif-server category_fg"></span> <!-- https://metroui.org.ua/icons.html ただしFontAwesomeなども互換性あり -->
-                </div>
-                <a href="#" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
-            </div>
-        </div>
+        
     </div>
     <!--
         以下必要に応じて追加 いくつでも追加できます
