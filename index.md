@@ -52,7 +52,7 @@ description:
                     <h3 class="text-bold mb-0">不具合</h3>
                 </div>
                 <div class="icon">
-                    <span class="mif-bug-full category_fg"></span>
+                    <span class="mif-bug category_fg"></span>
                 </div>
                 <a href="/category/不具合" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
             </div>
