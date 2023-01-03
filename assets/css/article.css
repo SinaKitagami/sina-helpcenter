@@ -16,7 +16,3 @@ dl, ol, ul {
     margin: 30px;
     list-style-position: outside;
 }
-
-li {
-    list-style-type: disc;
-}
