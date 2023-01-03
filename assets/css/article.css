@@ -11,3 +11,9 @@ For: /article.html
 .breadcrumbs{
     margin-top:57px;
 }
+
+dl, ol, ul {
+    margin: 30px;
+    list-style-position: outside;
+    list-style-type: decimal;
+}
