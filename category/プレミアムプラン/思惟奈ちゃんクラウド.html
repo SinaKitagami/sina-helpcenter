@@ -51,6 +51,19 @@ SimpleJekyllSearch({
 </script>
 <script src="/assets/js/metro.min.js"></script>
 <script src="/assets/js/top.js"></script>
+<script src="https://www.google.com/recaptcha/enterprise.js?render=6LeEPLYkAAAAAOvI3mUNkxS7CCC1nzgr9UWAfCbg"></script>
+<script>
+  function onClick(e) {
+    e.preventDefault();
+    grecaptcha.enterprise.ready(async () => {
+      const token = await grecaptcha.enterprise.execute('6LeEPLYkAAAAAOvI3mUNkxS7CCC1nzgr9UWAfCbg', {action: 'LOGIN'});
+      // IMPORTANT: The 'token' that results from execute is an encrypted response sent by
+      // reCAPTCHA Enterprise to the end user's browser.
+      // This token must be validated by creating an assessment.
+      // See https://cloud.google.com/recaptcha-enterprise/docs/create-assessment
+    });
+  }
+</script>
 
 <body>
     <div data-role="appbar" class="navbar">
@@ -133,7 +146,7 @@ SimpleJekyllSearch({
     <div class="row flex-align-center">
         <div class="cell-md-5 text-center-md text-left">
             <ul class="inline-list reduce-2">
-                <li>© 2020-2023, Team Sina. | Last Build: edc1949</li>
+                <li>© 2020-2023, Team Sina. | Last Build: cc6a79e</li>
             </ul>
         </div>
         <div class="cell-md-2 text-center">
