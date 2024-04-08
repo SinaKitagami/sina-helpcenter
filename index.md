@@ -38,12 +38,12 @@ description:
         <div class="cell-12 cell-md-4">
             <div class="more-info-box category_fg">
                 <div class="content">
-                    <h3 class="text-bold mb-0">プレミアムプラン</h3>
+                    <h3 class="text-bold mb-0">告知</h3>
                 </div>
                 <div class="icon">
                     <span class="mif-star-full category_fg"></span>
                 </div>
-                <a href="/category/プレミアムプラン" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+                <a href="/category/notice" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
             </div>
         </div>
         <div class="cell-12 cell-md-4">
