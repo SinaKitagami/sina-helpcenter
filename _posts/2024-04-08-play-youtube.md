@@ -2,7 +2,7 @@
 layout: post
 title: YouTubeの再生に関して
 date: 2024-04-08 15:00 +0900
-category: notice
+category: "notice"
 ---
 
 <div class="primer-spec-callout info" markdown="1">
