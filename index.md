@@ -63,7 +63,7 @@ description:
                     <h3 class="text-bold mb-0">{{TITLE}}</h3>
                 </div>
                 <div class="icon">
-                    <span class="mif-star-full category_fg"></span> 
+                    <span class="mif-star-full category_fg"></span>
                 </div>
                 <a href="/category/faq" class="more"> 読む <span class="mif-arrow-right"></span></a>
             </div>
