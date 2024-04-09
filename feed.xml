@@ -1,12 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-08T07:10:58+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">YouTubeの再生に関して</title><link href="https://help.sina-chan.com/category/notice/play-youtube" rel="alternate" type="text/html" title="YouTubeの再生に関して" /><published>2024-04-08T06:00:00+00:00</published><updated>2024-04-08T06:00:00+00:00</updated><id>https://help.sina-chan.com/category/notice/play-youtube</id><content type="html" xml:base="https://help.sina-chan.com/category/notice/play-youtube"><![CDATA[<div class="primer-spec-callout info">
-  <p><strong>テスト</strong></p>
-</div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-09T23:54:31+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">ゲームポイントとは？</title><link href="https://help.sina-chan.com/category/faq/gamepoint" rel="alternate" type="text/html" title="ゲームポイントとは？" /><published>2024-04-09T08:00:00+00:00</published><updated>2024-04-09T08:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/gamepoint</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/gamepoint"><![CDATA[<p>ゲームポイントとはミニゲームをすることによって貯まるポイントのことで、連携ロールで思惟奈ちゃんを選択することで確認することができます。</p>
+
+<p>現在ゲームポイントを貯めることができるミニゲームは魚釣り(<code class="language-plaintext highlighter-rouge">/game fish</code>)のみとなっています。</p>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[ゲームポイントとはミニゲームをすることによって貯まるポイントのことで、連携ロールで思惟奈ちゃんを選択することで確認することができます。]]></summary></entry><entry><title type="html">スラッシュコマンドが使えない(反映されない・候補に表示されない)</title><link href="https://help.sina-chan.com/category/faq/unable-slash-command" rel="alternate" type="text/html" title="スラッシュコマンドが使えない(反映されない・候補に表示されない)" /><published>2024-04-09T08:00:00+00:00</published><updated>2024-04-09T08:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/unable-slash-command</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/unable-slash-command"><![CDATA[<p>極稀にスラッシュコマンドが反映されないまたは候補に表示されない場合があります。</p>
+
+<p>こちらとしては、原因不明かつどうにかできる問題ではない(Discord側の問題)ため、こちらから復旧対応を行うことはできません。</p>
+
+<p>現在確認している事例においては以下の要因により発生する可能性がありますのでご確認頂ますようお願い致します。</p>
+
+<ul>
+  <li>サーバーに導入されている中で、スラッシュコマンドに対応しているBotが多すぎる</li>
+  <li>思惟奈ちゃんの導入の段階で何らかの問題が起こっている<br />導入ガイドは<a href="https://help.sina-chan.com/config/join-server" class="a-orange">こちら</a>よりご確認いただけます</li>
+</ul>
+
+<p>一部のチャンネルまたは一部のメンバーが使えない場合は権限設定に問題がある場合があります。</p>
+
+<dl>
+  <dt>1. スラッシュコマンドをしようとしているチャンネルで「アプリコマンドを使う」が有効になっていること</dt>
+  <dd>確認には「チャンネルの管理」権限が必要です</dd>
+  <dt>2. 自分のプロフィールの一番上のロールまたは@everyone(何もロールがついていない場合)で「アプリコマンドを使う」が有効になっていること</dt>
+  <dd>確認には「ロールの管理」権限が必要です</dd>
+</dl>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[極稀にスラッシュコマンドが反映されないまたは候補に表示されない場合があります。]]></summary></entry><entry><title type="html">システム通知</title><link href="https://help.sina-chan.com/category/trust-and-safety/system-notice" rel="alternate" type="text/html" title="システム通知" /><published>2024-04-09T03:00:00+00:00</published><updated>2024-04-09T03:00:00+00:00</updated><id>https://help.sina-chan.com/category/trust-and-safety/system-notice</id><content type="html" xml:base="https://help.sina-chan.com/category/trust-and-safety/system-notice"><![CDATA[<p>運営よりユーザーに対して個別で情報を通知する際には、ダイレクトメッセージのシステムを利用し、思惟奈ちゃんのBotアカウントより通知することがあります。</p>
+
+<p>これらの通知は現在は以下の場合に限り使用しています。</p>
+
+<ul>
+  <li>ペナルティを科す場合</li>
+  <li>Bot利用に関して何らかの通知を行う場合(サーバーオーナーに対してのみ)</li>
+</ul>
+
+<p>Botアカウントの通知に関しては返信してもメッセージは返ってきませんのでご注意ください。</p>
+
+<p>また、Botアカウントではなく直接運営のアカウントよりお知らせする場合もあります。</p>
+
+<p>運営アカウントからの通知の場合は、返信する前にアカウントがなりすましではないかを確認してください。</p>
+
+<p>万が一、なりすましの場合は、<a href="https://support.center.sina-chan.com/servicedesk/customer/portal/1/group/1/create/19" class="a-orange">こちら</a>より通報をお願い致します。</p>]]></content><author><name></name></author><category term="trust-and-safety" /><summary type="html"><![CDATA[運営よりユーザーに対して個別で情報を通知する際には、ダイレクトメッセージのシステムを利用し、思惟奈ちゃんのBotアカウントより通知することがあります。]]></summary></entry><entry><title type="html">レベル機能のオフ</title><link href="https://help.sina-chan.com/category/config/disable-level" rel="alternate" type="text/html" title="レベル機能のオフ" /><published>2024-04-09T02:00:00+00:00</published><updated>2024-04-09T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/config/disable-level</id><content type="html" xml:base="https://help.sina-chan.com/category/config/disable-level"><![CDATA[<p>レベル機能を無効化するためには、<code class="language-plaintext highlighter-rouge">/settings toggle_features feature_name:level_count enable:False</code>にて行うことができます。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[レベル機能を無効化するためには、/settings toggle_features feature_name:level_count enable:Falseにて行うことができます。]]></summary></entry><entry><title type="html">あのアイコン(バッジ)って？</title><link href="https://help.sina-chan.com/category/faq/gchat-icon" rel="alternate" type="text/html" title="あのアイコン(バッジ)って？" /><published>2024-04-09T02:00:00+00:00</published><updated>2024-04-09T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/gchat-icon</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/gchat-icon"><![CDATA[<p>グローバルチャットではユーザー情報に応じてアイコン(バッジ)を表示しています。</p>
+
+<p>バッジは端末依存のためスクリーンショットとは異なる場合があります。</p>
+
+<picture><source srcset="/assets/img/generator/gchat-icon-400-1e3b04928.webp 400w, /assets/img/generator/gchat-icon-600-1e3b04928.webp 600w, /assets/img/generator/gchat-icon-625-1e3b04928.webp 625w" type="image/webp" /><source srcset="/assets/img/generator/gchat-icon-400-c175836bb.jpg 400w, /assets/img/generator/gchat-icon-600-c175836bb.jpg 600w, /assets/img/generator/gchat-icon-625-c175836bb.jpg 625w" type="image/jpeg" /><img src="/assets/img/generator/gchat-icon-625-c175836bb.jpg" /></picture>
+
+<ol>
+  <li>チーム☆思惟奈ちゃん(運営)メンバー</li>
+  <li>思惟奈ちゃん認証済みアカウント<br />認証済みアカウントは<a href="https://home.sina-chan.com/legal/partner-verify" class="a-orange">こちらのポリシー</a>に従って管理しています。</li>
+  <li>グローバルチャットモデレーター</li>
+  <li>ドネートユーザーバッジ<br />ドネートに関して詳しくは<a href="https://home.sina-chan.com/donate" class="a-orange">こちら</a>よりご確認ください。</li>
+  <li>スターユーザー(現在は原則付与していません)<br /><a href="https://home.sina-chan.com/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a>におけるアカウント作成日の制限がないユーザー</li>
+  <li>Music Activity Viewer ベータ参加者(現在は付与していません)</li>
+</ol>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[グローバルチャットではユーザー情報に応じてアイコン(バッジ)を表示しています。]]></summary></entry><entry><title type="html">サーバーへの導入</title><link href="https://help.sina-chan.com/category/config/join-server" rel="alternate" type="text/html" title="サーバーへの導入" /><published>2024-04-09T02:00:00+00:00</published><updated>2024-04-09T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/config/join-server</id><content type="html" xml:base="https://help.sina-chan.com/category/config/join-server"><![CDATA[<blockquote>
+  <p>思惟奈ちゃんをサーバーに導入するには導入するサーバーにおけるサーバー管理権限が必要です。(caution)</p>
+</blockquote>
+
+<p><a href="https://home.sina-chan.com/discord-bot" class="a-orange">こちらのBot招待リンク</a>より導入したいサーバーを選ぶことにより思惟奈ちゃんをサーバーに導入することができます。</p>
+
+<p>導入後は、主要な機能は全てスラッシュから始まるスラッシュコマンドで使用可能です。</p>
+
+<p>なお、これまで通りのs-から始まるprefixコマンドも使用可能ですが、ヘルプコマンド(<code class="language-plaintext highlighter-rouge">/help</code>)のメンテナンス実施中につき、コマンドが確認できないためおすすめしません。</p>
+
+<p>万が一、スラッシュコマンドが使用できない場合は以下の2点をご確認ください。</p>
+
+<p>2点の確認には「チャンネルの管理」権限または「ロールの管理」権限が必要です。  権限がない場合は、サーバーの管理者または運営の方にご確認ください。</p>
+
+<dl>
+  <dt>1. スラッシュコマンドをしようとしているチャンネルで「アプリコマンドを使う」が有効になっていること</dt>
+  <dd>確認には「チャンネルの管理」権限が必要です</dd>
+  <dt>2. 自分のプロフィールの一番上のロールまたは@everyone(何もロールがついていない場合)で「アプリコマンドを使う」が有効になっていること</dt>
+  <dd>確認には「ロールの管理」権限が必要です</dd>
+</dl>
+
+<p>それでも使用できない場合はサーバーの設定(「連携サービス」→「思惟奈ちゃん」)をご確認ください。</p>
+
+<p>万が一解決しなかった場合はお手数をおかけしますがお問い合わせいただきますようお願い申し上げます。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんをサーバーに導入するには導入するサーバーにおけるサーバー管理権限が必要です。(caution)]]></summary></entry><entry><title type="html">YouTubeの再生に関して</title><link href="https://help.sina-chan.com/category/notice/play-youtube" rel="alternate" type="text/html" title="YouTubeの再生に関して" /><published>2024-04-08T06:00:00+00:00</published><updated>2024-04-08T06:00:00+00:00</updated><id>https://help.sina-chan.com/category/notice/play-youtube</id><content type="html" xml:base="https://help.sina-chan.com/category/notice/play-youtube"><![CDATA[<blockquote>
+  <p>今後の状況によってはサポートを再開することがあります。(info)</p>
+</blockquote>
 
 <p>現在音楽機能でのYouTube再生は諸般の事情によりサポートを中断しております。</p>
 
 <p>そのため、YouTubeをソースとした再生はできません。</p>
 
-<p>あらかじめご了承ください。</p>]]></content><author><name></name></author><category term="notice" /><summary type="html"><![CDATA[テスト]]></summary></entry><entry><title type="html">プレミアムプラン・寄付について</title><link href="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3-%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" rel="alternate" type="text/html" title="プレミアムプラン・寄付について" /><published>2023-04-19T12:25:00+00:00</published><updated>2023-04-19T12:25:00+00:00</updated><id>https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3%E3%83%BB%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6</id><content type="html" xml:base="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3-%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"><![CDATA[<h2 id="プレミアムプラン">プレミアムプラン</h2>
+<p>あらかじめご了承ください。</p>
+
+<blockquote>
+  <p>今後の状況によってはサポートを再開することがあります。
+本実装に関しては検討の上判断しますが、<strong>__使用率などの数値_</strong>から判断する予定です。(note)</p>
+</blockquote>]]></content><author><name></name></author><category term="notice" /><summary type="html"><![CDATA[今後の状況によってはサポートを再開することがあります。(info)]]></summary></entry><entry><title type="html">ユーザープロファイル作成時の通知</title><link href="https://help.sina-chan.com/category/config/user-profile-notification" rel="alternate" type="text/html" title="ユーザープロファイル作成時の通知" /><published>2024-04-08T06:00:00+00:00</published><updated>2024-04-08T06:00:00+00:00</updated><id>https://help.sina-chan.com/category/config/user-profile-notification</id><content type="html" xml:base="https://help.sina-chan.com/category/config/user-profile-notification"><![CDATA[<p>思惟奈ちゃんが導入されているサーバーで、初めて思惟奈ちゃんを利用したユーザーは思惟奈ちゃんのシステムにユーザープロフィールを作成し、作成した旨を通知するようになっています。</p>
+
+<p>これらに関しては、通知のオン・オフが可能です。(既定値: オン)</p>
+
+<blockquote>
+  <p>コマンド実行には設定するサーバーにおけるサーバー管理権限が必要です。(caution)</p>
+</blockquote>
+
+<h2 id="1-通知をオフにする">1. 通知をオフにする</h2>
+
+<picture><source srcset="/assets/img/generator/disable-profile-notifi-400-94c384dcd.webp 400w, /assets/img/generator/disable-profile-notifi-600-94c384dcd.webp 600w, /assets/img/generator/disable-profile-notifi-800-94c384dcd.webp 800w, /assets/img/generator/disable-profile-notifi-1000-94c384dcd.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/disable-profile-notifi-400-2e8c6670c.jpg 400w, /assets/img/generator/disable-profile-notifi-600-2e8c6670c.jpg 600w, /assets/img/generator/disable-profile-notifi-800-2e8c6670c.jpg 800w, /assets/img/generator/disable-profile-notifi-1000-2e8c6670c.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/disable-profile-notifi-800-2e8c6670c.jpg" /></picture>
+
+<p><code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">add</code>オプションを使用し、<code class="language-plaintext highlighter-rouge">disable_profile_msg</code>を利用制限対象に追加してください。</p>
+
+<p>コマンドを実行すると以下スクリーンショットにあるメッセージが送信され、ユーザープロファイルの作成通知が停止されます。</p>
+
+<picture><source srcset="/assets/img/generator/comlock-view-400-04af620a2.webp 400w, /assets/img/generator/comlock-view-600-04af620a2.webp 600w, /assets/img/generator/comlock-view-800-04af620a2.webp 800w, /assets/img/generator/comlock-view-974-04af620a2.webp 974w" type="image/webp" /><source srcset="/assets/img/generator/comlock-view-400-75ef38386.jpg 400w, /assets/img/generator/comlock-view-600-75ef38386.jpg 600w, /assets/img/generator/comlock-view-800-75ef38386.jpg 800w, /assets/img/generator/comlock-view-974-75ef38386.jpg 974w" type="image/jpeg" /><img src="/assets/img/generator/comlock-view-800-75ef38386.jpg" /></picture>
+
+<p>設定完了後、<code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">view</code>オプションを使用することにより、設定状況が確認できます。</p>
+
+<p>なお、この際は<code class="language-plaintext highlighter-rouge">comname</code>オプションは不要です。</p>
+
+<picture><source srcset="/assets/img/generator/comlock-disable-profile-notifi-400-9956cfba6.webp 400w, /assets/img/generator/comlock-disable-profile-notifi-600-9956cfba6.webp 600w, /assets/img/generator/comlock-disable-profile-notifi-800-9956cfba6.webp 800w, /assets/img/generator/comlock-disable-profile-notifi-1000-9956cfba6.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/comlock-disable-profile-notifi-400-d39ec1191.jpg 400w, /assets/img/generator/comlock-disable-profile-notifi-600-d39ec1191.jpg 600w, /assets/img/generator/comlock-disable-profile-notifi-800-d39ec1191.jpg 800w, /assets/img/generator/comlock-disable-profile-notifi-1000-d39ec1191.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/comlock-disable-profile-notifi-800-d39ec1191.jpg" /></picture>
+
+<h2 id="2-通知をオンにする">2. 通知をオンにする</h2>
+
+<picture><source srcset="/assets/img/generator/enable-profile-notifi-400-fd72c6f2b.webp 400w, /assets/img/generator/enable-profile-notifi-600-fd72c6f2b.webp 600w, /assets/img/generator/enable-profile-notifi-800-fd72c6f2b.webp 800w, /assets/img/generator/enable-profile-notifi-984-fd72c6f2b.webp 984w" type="image/webp" /><source srcset="/assets/img/generator/enable-profile-notifi-400-ac53567b5.jpg 400w, /assets/img/generator/enable-profile-notifi-600-ac53567b5.jpg 600w, /assets/img/generator/enable-profile-notifi-800-ac53567b5.jpg 800w, /assets/img/generator/enable-profile-notifi-984-ac53567b5.jpg 984w" type="image/jpeg" /><img src="/assets/img/generator/enable-profile-notifi-800-ac53567b5.jpg" /></picture>
+
+<p><code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">del</code>オプションを使用し、<code class="language-plaintext highlighter-rouge">disable_profile_msg</code>を利用制限対象から削除してください。</p>
+
+<p>コマンドを実行するとユーザープロファイルの作成通知が再開されます。</p>
+
+<picture><source srcset="/assets/img/generator/comlock-none-400-00fbf1dc6.webp 400w, /assets/img/generator/comlock-none-600-00fbf1dc6.webp 600w, /assets/img/generator/comlock-none-800-00fbf1dc6.webp 800w, /assets/img/generator/comlock-none-1000-00fbf1dc6.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/comlock-none-400-9758b07cd.jpg 400w, /assets/img/generator/comlock-none-600-9758b07cd.jpg 600w, /assets/img/generator/comlock-none-800-9758b07cd.jpg 800w, /assets/img/generator/comlock-none-1000-9758b07cd.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/comlock-none-800-9758b07cd.jpg" /></picture>
+
+<p>設定完了後、<code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">view</code>オプションを使用し、上記の状態になっていれば問題ありません。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんが導入されているサーバーで、初めて思惟奈ちゃんを利用したユーザーは思惟奈ちゃんのシステムにユーザープロフィールを作成し、作成した旨を通知するようになっています。]]></summary></entry><entry><title type="html">プレミアムプラン・寄付について</title><link href="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3-%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" rel="alternate" type="text/html" title="プレミアムプラン・寄付について" /><published>2023-04-19T12:25:00+00:00</published><updated>2023-04-19T12:25:00+00:00</updated><id>https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3%E3%83%BB%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6</id><content type="html" xml:base="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3-%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"><![CDATA[<h2 id="プレミアムプラン">プレミアムプラン</h2>
 
 <p>プレミアムプランは月額制のサブスクリプション型の支援になります。プレミアムプランにご加入いただいた方には特典をご用意しております。</p>
 
@@ -172,32 +282,4 @@
       <li>サポートサーバーに専用の窓口をご用意しておりますのでそちらからお願い致します。</li>
     </ul>
   </li>
-</ul>]]></content><author><name></name></author><category term="プレミアムプラン" /><summary type="html"><![CDATA[思惟奈ちゃんクラウドとは?]]></summary></entry><entry><title type="html">テスト中のシステムに起因する問題</title><link href="https://help.sina-chan.com/category/%E4%B8%8D%E5%85%B7%E5%90%88/%E3%83%86%E3%82%B9%E3%83%88%E4%B8%AD%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E8%B5%B7%E5%9B%A0%E3%81%99%E3%82%8B%E5%95%8F%E9%A1%8C" rel="alternate" type="text/html" title="テスト中のシステムに起因する問題" /><published>2022-12-24T22:45:00+00:00</published><updated>2022-12-24T22:45:00+00:00</updated><id>https://help.sina-chan.com/category/%E4%B8%8D%E5%85%B7%E5%90%88/%E3%83%86%E3%82%B9%E3%83%88%E4%B8%AD%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E8%B5%B7%E5%9B%A0%E3%81%99%E3%82%8B%E5%95%8F%E9%A1%8C</id><content type="html" xml:base="https://help.sina-chan.com/category/%E4%B8%8D%E5%85%B7%E5%90%88/%E3%83%86%E3%82%B9%E3%83%88%E4%B8%AD%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E8%B5%B7%E5%9B%A0%E3%81%99%E3%82%8B%E5%95%8F%E9%A1%8C"><![CDATA[<p>現在テスト中のシステム(Sharding)が原因で発生しているとみられる問題が発生しています。</p>
-
-<p>もしも何らかの不具合があった場合、こちらを確認して頂き、情報がなかった場合は<a href="https://sinachan.page.link/discord">こちら</a>からサポートサーバーにご参加いただき#不具合・質問・提案のチャンネルにご報告頂けると幸いです。</p>
-
-<p>(Shardingに起因する問題はシャード番号が1番のサーバーで発生する可能性が高いです。確認する前に<code class="language-plaintext highlighter-rouge">/botinfo</code>にてシャード番号をご確認ください。)</p>
-
-<h2 id="現在確認している問題確認次第順次更新しています">現在確認している問題(確認次第順次更新しています)</h2>
-<ul>
-  <li>独自APIを使うもの(<code class="language-plaintext highlighter-rouge">/sync_metadata</code>:連携ロールでのゲームポイントなどを更新するコマンド)</li>
-  <li>キャッシュを用いた処理を行っているもの(思椎奈ちゃん独自の絵文字の表示(レベルアップ通知など)など)</li>
-</ul>]]></content><author><name></name></author><category term="不具合" /><summary type="html"><![CDATA[現在テスト中のシステム(Sharding)が原因で発生しているとみられる問題が発生しています。]]></summary></entry><entry><title type="html">プロファイル作成時の通知をオン/オフにしたいです</title><link href="https://help.sina-chan.com/category/%E8%A8%AD%E5%AE%9A/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E4%BD%9C%E6%88%90%E6%99%82%E3%81%AE%E9%80%9A%E7%9F%A5%E3%82%92%E3%82%AA%E3%83%B3-%E3%82%AA%E3%83%95%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99" rel="alternate" type="text/html" title="プロファイル作成時の通知をオン/オフにしたいです" /><published>2022-12-23T09:50:00+00:00</published><updated>2022-12-23T09:50:00+00:00</updated><id>https://help.sina-chan.com/category/%E8%A8%AD%E5%AE%9A/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E4%BD%9C%E6%88%90%E6%99%82%E3%81%AE%E9%80%9A%E7%9F%A5%E3%82%92%E3%82%AA%E3%83%B3-%E3%82%AA%E3%83%95%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99</id><content type="html" xml:base="https://help.sina-chan.com/category/%E8%A8%AD%E5%AE%9A/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E4%BD%9C%E6%88%90%E6%99%82%E3%81%AE%E9%80%9A%E7%9F%A5%E3%82%92%E3%82%AA%E3%83%B3-%E3%82%AA%E3%83%95%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99"><![CDATA[<p>思惟奈ちゃんがいるサーバーかつ、そのユーザーが初めて思惟奈ちゃんのいるサーバーでメッセージを送信した際、思惟奈ちゃんからメッセージでプロフィールを作成した旨の通知が送信されます。</p>
-
-<p>コマンド実行に必要な権限: サーバー管理</p>
-
-<h2 id="通知をオフにする">通知をオフにする</h2>
-
-<picture><source srcset="/assets/img/generator/turn_off_profile_notifacation-400-f87e6ad4e.webp 400w, /assets/img/generator/turn_off_profile_notifacation-600-f87e6ad4e.webp 600w, /assets/img/generator/turn_off_profile_notifacation-800-f87e6ad4e.webp 800w, /assets/img/generator/turn_off_profile_notifacation-1000-f87e6ad4e.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/turn_off_profile_notifacation-400-be5fb455f.png 400w, /assets/img/generator/turn_off_profile_notifacation-600-be5fb455f.png 600w, /assets/img/generator/turn_off_profile_notifacation-800-be5fb455f.png 800w, /assets/img/generator/turn_off_profile_notifacation-1000-be5fb455f.png 1000w" type="image/png" /><img src="/assets/img/generator/turn_off_profile_notifacation-800-be5fb455f.png" /></picture>
-
-<p><code class="language-plaintext highlighter-rouge">/comlock</code> の <code class="language-plaintext highlighter-rouge">add</code> オプションを使用し、<code class="language-plaintext highlighter-rouge">disable_profile_msg</code> をロック対象に追加してください。</p>
-
-<p>コマンド実行後、プロファイルの作成通知が停止されます。</p>
-
-<h2 id="通知をオンにする">通知をオンにする</h2>
-
-<picture><source srcset="/assets/img/generator/turn_on_profile_notifacation-400-be662622b.webp 400w, /assets/img/generator/turn_on_profile_notifacation-600-be662622b.webp 600w, /assets/img/generator/turn_on_profile_notifacation-800-be662622b.webp 800w, /assets/img/generator/turn_on_profile_notifacation-1000-be662622b.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/turn_on_profile_notifacation-400-f6acfbf85.png 400w, /assets/img/generator/turn_on_profile_notifacation-600-f6acfbf85.png 600w, /assets/img/generator/turn_on_profile_notifacation-800-f6acfbf85.png 800w, /assets/img/generator/turn_on_profile_notifacation-1000-f6acfbf85.png 1000w" type="image/png" /><img src="/assets/img/generator/turn_on_profile_notifacation-800-f6acfbf85.png" /></picture>
-
-<p><code class="language-plaintext highlighter-rouge">/comlock</code> の <code class="language-plaintext highlighter-rouge">del</code> オプションを使用し、<code class="language-plaintext highlighter-rouge">disable_profile_msg</code> をロック対象から削除してください。</p>
-
-<p>コマンド実行後、プロファイルの作成通知が再開されます。</p>]]></content><author><name></name></author><category term="設定" /><summary type="html"><![CDATA[思惟奈ちゃんがいるサーバーかつ、そのユーザーが初めて思惟奈ちゃんのいるサーバーでメッセージを送信した際、思惟奈ちゃんからメッセージでプロフィールを作成した旨の通知が送信されます。]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="プレミアムプラン" /><summary type="html"><![CDATA[思惟奈ちゃんクラウドとは?]]></summary></entry></feed>
