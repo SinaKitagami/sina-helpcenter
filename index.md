@@ -27,21 +27,10 @@ description:
         <div class="cell-12 cell-md-4">
             <div class="more-info-box category_fg">
                 <div class="content">
-                    <h3 class="text-bold mb-0">サーバー設定</h3>
-                </div>
-                <div class="icon">
-                    <span class="mif-cog category_fg"></span>
-                </div>
-                <a href="/category/config" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
-            </div>
-        </div>
-        <div class="cell-12 cell-md-4">
-            <div class="more-info-box category_fg">
-                <div class="content">
                     <h3 class="text-bold mb-0">告知</h3>
                 </div>
                 <div class="icon">
-                    <span class="mif-star-full category_fg"></span>
+                    <span class="mif-cog category_fg"></span>
                 </div>
                 <a href="/category/notice" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
             </div>
@@ -49,12 +38,34 @@ description:
         <div class="cell-12 cell-md-4">
             <div class="more-info-box category_fg">
                 <div class="content">
-                    <h3 class="text-bold mb-0">不具合</h3>
+                    <h3 class="text-bold mb-0">サーバー設定</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-star-full category_fg"></span>
+                </div>
+                <a href="/category/config" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box category_fg">
+                <div class="content">
+                    <h3 class="text-bold mb-0">Trust&Safety</h3>
                 </div>
                 <div class="icon">
                     <span class="mif-bug category_fg"></span>
                 </div>
-                <a href="/category/不具合" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+                <a href="/category/trust-and-safety" class="more category_fg"> 読む <span class="mif-arrow-right"></span></a>
+            </div>
+        </div>
+        <div class="cell-12 cell-md-4">
+            <div class="more-info-box bg-red fg-white">
+                <div class="content">
+                    <h3 class="text-bold mb-0">{{TITLE}}</h3>
+                </div>
+                <div class="icon">
+                    <span class="mif-star-full category_fg"></span> 
+                </div>
+                <a href="/category/faq" class="more"> 読む <span class="mif-arrow-right"></span></a>
             </div>
         </div>
     </div>
