@@ -10,3 +10,4 @@ category: "command"
 {% for post in site.categories.cmd-information %}
 {{ post.date | date:"%Y/%-m/%d" }}:<a href="{{ post.url }}" class="a-orange">{{ post.title }}</a>
 {% endfor %}
+<br>
