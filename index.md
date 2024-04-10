@@ -58,9 +58,9 @@ description:
             </div>
         </div>
         <div class="cell-12 cell-md-4">
-            <div class="more-info-box bg-red fg-white">
+            <div class="more-info-box category_fg">
                 <div class="content">
-                    <h3 class="text-bold mb-0">{{TITLE}}</h3>
+                    <h3 class="text-bold mb-0">FAQ</h3>
                 </div>
                 <div class="icon">
                     <span class="mif-star-full category_fg"></span>
