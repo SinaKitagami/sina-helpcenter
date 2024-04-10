@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-10T02:44:35+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">コマンド紹介 - 各種情報</title><link href="https://help.sina-chan.com/category/help-command/info-user" rel="alternate" type="text/html" title="コマンド紹介 - 各種情報" /><published>2024-04-10T02:00:00+00:00</published><updated>2024-04-10T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/help-command/info-user</id><content type="html" xml:base="https://help.sina-chan.com/category/help-command/info-user"><![CDATA[<p>各種情報(<code class="language-plaintext highlighter-rouge">/information</code>)から始まるコマンドの一覧です。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-10T04:45:05+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">プレミアムプランのプラン変更・キャンセル</title><link href="https://help.sina-chan.com/category/donate/plan-change_cancel" rel="alternate" type="text/html" title="プレミアムプランのプラン変更・キャンセル" /><published>2024-04-10T04:00:00+00:00</published><updated>2024-04-10T04:00:00+00:00</updated><id>https://help.sina-chan.com/category/donate/plan-change_cancel</id><content type="html" xml:base="https://help.sina-chan.com/category/donate/plan-change_cancel"><![CDATA[<p>プレミアムプランのプラン変更・キャンセルは提携先である<a href="https://billing.stripe.com/p/login/dR629U49v5eS9wcfYY" class="a-orange">Stripeのカスタマーポータル</a>より行えます。</p>
+
+<p>なお、掲載しているスクリーンショットはテスト環境のものですが、UI等は本番環境と同じです。</p>
+
+<picture><source srcset="/assets/img/generator/stripe-start-400-9b2c3e025.webp 400w, /assets/img/generator/stripe-start-600-9b2c3e025.webp 600w, /assets/img/generator/stripe-start-800-9b2c3e025.webp 800w, /assets/img/generator/stripe-start-1000-9b2c3e025.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-start-400-b6542747d.jpg 400w, /assets/img/generator/stripe-start-600-b6542747d.jpg 600w, /assets/img/generator/stripe-start-800-b6542747d.jpg 800w, /assets/img/generator/stripe-start-1000-b6542747d.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-start-800-b6542747d.jpg" /></picture>
+
+<p>プランを変更したい場合は「プランを変更」より、プランのキャンセルは「プランをキャンセル」より行えます。</p>
+
+<h2 id="1-プランの変更">1. プランの変更</h2>
+
+<picture><source srcset="/assets/img/generator/stripe-change-plan-400-fe4434ae4.webp 400w, /assets/img/generator/stripe-change-plan-600-fe4434ae4.webp 600w, /assets/img/generator/stripe-change-plan-800-fe4434ae4.webp 800w, /assets/img/generator/stripe-change-plan-1000-fe4434ae4.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-change-plan-400-8531f6098.jpg 400w, /assets/img/generator/stripe-change-plan-600-8531f6098.jpg 600w, /assets/img/generator/stripe-change-plan-800-8531f6098.jpg 800w, /assets/img/generator/stripe-change-plan-1000-8531f6098.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-change-plan-800-8531f6098.jpg" /></picture>
+
+<p>プラン変更画面ではいつでもプランの変更が可能です。プランの変更は即時反映されます。</p>
+
+<p>プランを変更する場合の支払いに関しては以下のとおりです。</p>
+
+<ul>
+  <li>上位プランに変更する場合<br />現在のプランの残り期間より残額を自動計算し、新プランの料金に割引を行います。</li>
+  <li>下位プランに変更する場合<br />現在のプランの残り期間より残額を自動計算し、 新プランの支払いに充当します。充当後の残額はアカウント残額として今後の支払いに利用できます。</li>
+</ul>
+
+<h2 id="2-プランのキャンセル">2. プランのキャンセル</h2>
+
+<picture><source srcset="/assets/img/generator/stripe-cancel-plan-400-1a71d327c.webp 400w, /assets/img/generator/stripe-cancel-plan-600-1a71d327c.webp 600w, /assets/img/generator/stripe-cancel-plan-800-1a71d327c.webp 800w, /assets/img/generator/stripe-cancel-plan-1000-1a71d327c.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-cancel-plan-400-bd468d7c5.jpg 400w, /assets/img/generator/stripe-cancel-plan-600-bd468d7c5.jpg 600w, /assets/img/generator/stripe-cancel-plan-800-bd468d7c5.jpg 800w, /assets/img/generator/stripe-cancel-plan-1000-bd468d7c5.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-cancel-plan-800-bd468d7c5.jpg" /></picture>
+
+<p>プランのキャンセルでは確認画面が表示されます。そのままプランのキャンセルを選択した場合は、請求期間の終了日まで特典をご利用いただけます。</p>
+
+<picture><source srcset="/assets/img/generator/stripe-after-cancel-400-840e21d16.webp 400w, /assets/img/generator/stripe-after-cancel-600-840e21d16.webp 600w, /assets/img/generator/stripe-after-cancel-800-840e21d16.webp 800w, /assets/img/generator/stripe-after-cancel-1000-840e21d16.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-after-cancel-400-79281dc3a.jpg 400w, /assets/img/generator/stripe-after-cancel-600-79281dc3a.jpg 600w, /assets/img/generator/stripe-after-cancel-800-79281dc3a.jpg 800w, /assets/img/generator/stripe-after-cancel-1000-79281dc3a.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-after-cancel-800-79281dc3a.jpg" /></picture>
+
+<p>キャンセル後プランの変更・プランの更新(再開)を行うことができます。</p>]]></content><author><name></name></author><category term="donate" /><summary type="html"><![CDATA[プレミアムプランのプラン変更・キャンセルは提携先であるStripeのカスタマーポータルより行えます。]]></summary></entry><entry><title type="html">コマンド紹介 - 各種情報</title><link href="https://help.sina-chan.com/category/help-command/info-user" rel="alternate" type="text/html" title="コマンド紹介 - 各種情報" /><published>2024-04-10T02:00:00+00:00</published><updated>2024-04-10T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/help-command/info-user</id><content type="html" xml:base="https://help.sina-chan.com/category/help-command/info-user"><![CDATA[<p>各種情報(<code class="language-plaintext highlighter-rouge">/information</code>)から始まるコマンドの一覧です。</p>
 
 <ul>
     
+            <p>2024/4/10 - <a href="/category/cmd-information/information-server">コマンド紹介 - サーバー情報</a></p>
+    
             <p>2024/4/10 - <a href="/category/cmd-information/information-user">コマンド紹介 - ユーザー情報</a></p>
     
-</ul>]]></content><author><name></name></author><category term="help-command" /><summary type="html"><![CDATA[各種情報(/information)から始まるコマンドの一覧です。]]></summary></entry><entry><title type="html">コマンド紹介 - ユーザー情報</title><link href="https://help.sina-chan.com/category/cmd-information/information-user" rel="alternate" type="text/html" title="コマンド紹介 - ユーザー情報" /><published>2024-04-10T00:00:00+00:00</published><updated>2024-04-10T00:00:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-information/information-user</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-information/information-user"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/information user target:[ユーザー選択]</code>または<code class="language-plaintext highlighter-rouge">/information user uid:[ユーザーID]</code></p>
+</ul>]]></content><author><name></name></author><category term="help-command" /><summary type="html"><![CDATA[各種情報(/information)から始まるコマンドの一覧です。]]></summary></entry><entry><title type="html">コマンド紹介 - サーバー情報</title><link href="https://help.sina-chan.com/category/cmd-information/information-server" rel="alternate" type="text/html" title="コマンド紹介 - サーバー情報" /><published>2024-04-10T02:00:00+00:00</published><updated>2024-04-10T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-information/information-server</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-information/information-server"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/information server</code></p>
+
+<p><u>コマンドを実行したサーバー</u>に関する情報を表示します。</p>
+
+<p>ユーザー情報検索とは異なり、他サーバーの情報を表示することはできません。</p>]]></content><author><name></name></author><category term="cmd-information" /><summary type="html"><![CDATA[/information server]]></summary></entry><entry><title type="html">コマンド紹介 - ユーザー情報</title><link href="https://help.sina-chan.com/category/cmd-information/information-user" rel="alternate" type="text/html" title="コマンド紹介 - ユーザー情報" /><published>2024-04-10T00:00:00+00:00</published><updated>2024-04-10T00:00:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-information/information-user</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-information/information-user"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/information user target:[ユーザー選択]</code>または<code class="language-plaintext highlighter-rouge">/information user uid:[ユーザーID]</code></p>
 
 <p>選択したユーザーまたはユーザーIDで指定したユーザーに関する情報を表示します。</p>
 
@@ -85,51 +120,4 @@
 
 <p>それでも使用できない場合はサーバーの設定(「連携サービス」→「思惟奈ちゃん」)をご確認ください。</p>
 
-<p>万が一解決しなかった場合はお手数をおかけしますがお問い合わせいただきますようお願い申し上げます。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんをサーバーに導入するには導入するサーバーにおけるサーバー管理権限が必要です。(caution)]]></summary></entry><entry><title type="html">YouTubeの再生に関して</title><link href="https://help.sina-chan.com/category/notice/play-youtube" rel="alternate" type="text/html" title="YouTubeの再生に関して" /><published>2024-04-08T06:00:00+00:00</published><updated>2024-04-08T06:00:00+00:00</updated><id>https://help.sina-chan.com/category/notice/play-youtube</id><content type="html" xml:base="https://help.sina-chan.com/category/notice/play-youtube"><![CDATA[<blockquote>
-  <p>今後の状況によってはサポートを再開することがあります。(info)</p>
-</blockquote>
-
-<p>現在音楽機能でのYouTube再生は諸般の事情によりサポートを中断しております。</p>
-
-<p>そのため、YouTubeをソースとした再生はできません。</p>
-
-<p>あらかじめご了承ください。</p>
-
-<blockquote>
-  <p>今後の状況によってはサポートを再開することがあります。
-本実装に関しては検討の上判断しますが、<strong>__使用率などの数値_</strong>から判断する予定です。(note)</p>
-</blockquote>]]></content><author><name></name></author><category term="notice" /><summary type="html"><![CDATA[今後の状況によってはサポートを再開することがあります。(info)]]></summary></entry><entry><title type="html">ユーザープロファイル作成時の通知</title><link href="https://help.sina-chan.com/category/config/user-profile-notification" rel="alternate" type="text/html" title="ユーザープロファイル作成時の通知" /><published>2024-04-08T06:00:00+00:00</published><updated>2024-04-08T06:00:00+00:00</updated><id>https://help.sina-chan.com/category/config/user-profile-notification</id><content type="html" xml:base="https://help.sina-chan.com/category/config/user-profile-notification"><![CDATA[<p>思惟奈ちゃんが導入されているサーバーで、初めて思惟奈ちゃんを利用したユーザーは思惟奈ちゃんのシステムにユーザープロフィールを作成し、作成した旨を通知するようになっています。</p>
-
-<p>これらに関しては、通知のオン・オフが可能です。(既定値: オン)</p>
-
-<blockquote>
-  <p>コマンド実行には設定するサーバーにおけるサーバー管理権限が必要です。(caution)</p>
-</blockquote>
-
-<h2 id="1-通知をオフにする">1. 通知をオフにする</h2>
-
-<picture><source srcset="/assets/img/generator/disable-profile-notifi-400-94c384dcd.webp 400w, /assets/img/generator/disable-profile-notifi-600-94c384dcd.webp 600w, /assets/img/generator/disable-profile-notifi-800-94c384dcd.webp 800w, /assets/img/generator/disable-profile-notifi-1000-94c384dcd.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/disable-profile-notifi-400-2e8c6670c.jpg 400w, /assets/img/generator/disable-profile-notifi-600-2e8c6670c.jpg 600w, /assets/img/generator/disable-profile-notifi-800-2e8c6670c.jpg 800w, /assets/img/generator/disable-profile-notifi-1000-2e8c6670c.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/disable-profile-notifi-800-2e8c6670c.jpg" /></picture>
-
-<p><code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">add</code>オプションを使用し、<code class="language-plaintext highlighter-rouge">disable_profile_msg</code>を利用制限対象に追加してください。</p>
-
-<p>コマンドを実行すると以下スクリーンショットにあるメッセージが送信され、ユーザープロファイルの作成通知が停止されます。</p>
-
-<picture><source srcset="/assets/img/generator/comlock-view-400-04af620a2.webp 400w, /assets/img/generator/comlock-view-600-04af620a2.webp 600w, /assets/img/generator/comlock-view-800-04af620a2.webp 800w, /assets/img/generator/comlock-view-974-04af620a2.webp 974w" type="image/webp" /><source srcset="/assets/img/generator/comlock-view-400-75ef38386.jpg 400w, /assets/img/generator/comlock-view-600-75ef38386.jpg 600w, /assets/img/generator/comlock-view-800-75ef38386.jpg 800w, /assets/img/generator/comlock-view-974-75ef38386.jpg 974w" type="image/jpeg" /><img src="/assets/img/generator/comlock-view-800-75ef38386.jpg" /></picture>
-
-<p>設定完了後、<code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">view</code>オプションを使用することにより、設定状況が確認できます。</p>
-
-<p>なお、この際は<code class="language-plaintext highlighter-rouge">comname</code>オプションは不要です。</p>
-
-<picture><source srcset="/assets/img/generator/comlock-disable-profile-notifi-400-9956cfba6.webp 400w, /assets/img/generator/comlock-disable-profile-notifi-600-9956cfba6.webp 600w, /assets/img/generator/comlock-disable-profile-notifi-800-9956cfba6.webp 800w, /assets/img/generator/comlock-disable-profile-notifi-1000-9956cfba6.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/comlock-disable-profile-notifi-400-d39ec1191.jpg 400w, /assets/img/generator/comlock-disable-profile-notifi-600-d39ec1191.jpg 600w, /assets/img/generator/comlock-disable-profile-notifi-800-d39ec1191.jpg 800w, /assets/img/generator/comlock-disable-profile-notifi-1000-d39ec1191.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/comlock-disable-profile-notifi-800-d39ec1191.jpg" /></picture>
-
-<h2 id="2-通知をオンにする">2. 通知をオンにする</h2>
-
-<picture><source srcset="/assets/img/generator/enable-profile-notifi-400-fd72c6f2b.webp 400w, /assets/img/generator/enable-profile-notifi-600-fd72c6f2b.webp 600w, /assets/img/generator/enable-profile-notifi-800-fd72c6f2b.webp 800w, /assets/img/generator/enable-profile-notifi-984-fd72c6f2b.webp 984w" type="image/webp" /><source srcset="/assets/img/generator/enable-profile-notifi-400-ac53567b5.jpg 400w, /assets/img/generator/enable-profile-notifi-600-ac53567b5.jpg 600w, /assets/img/generator/enable-profile-notifi-800-ac53567b5.jpg 800w, /assets/img/generator/enable-profile-notifi-984-ac53567b5.jpg 984w" type="image/jpeg" /><img src="/assets/img/generator/enable-profile-notifi-800-ac53567b5.jpg" /></picture>
-
-<p><code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">del</code>オプションを使用し、<code class="language-plaintext highlighter-rouge">disable_profile_msg</code>を利用制限対象から削除してください。</p>
-
-<p>コマンドを実行するとユーザープロファイルの作成通知が再開されます。</p>
-
-<picture><source srcset="/assets/img/generator/comlock-none-400-00fbf1dc6.webp 400w, /assets/img/generator/comlock-none-600-00fbf1dc6.webp 600w, /assets/img/generator/comlock-none-800-00fbf1dc6.webp 800w, /assets/img/generator/comlock-none-1000-00fbf1dc6.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/comlock-none-400-9758b07cd.jpg 400w, /assets/img/generator/comlock-none-600-9758b07cd.jpg 600w, /assets/img/generator/comlock-none-800-9758b07cd.jpg 800w, /assets/img/generator/comlock-none-1000-9758b07cd.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/comlock-none-800-9758b07cd.jpg" /></picture>
-
-<p>設定完了後、<code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">view</code>オプションを使用し、上記の状態になっていれば問題ありません。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんが導入されているサーバーで、初めて思惟奈ちゃんを利用したユーザーは思惟奈ちゃんのシステムにユーザープロフィールを作成し、作成した旨を通知するようになっています。]]></summary></entry></feed>
+<p>万が一解決しなかった場合はお手数をおかけしますがお問い合わせいただきますようお願い申し上げます。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんをサーバーに導入するには導入するサーバーにおけるサーバー管理権限が必要です。(caution)]]></summary></entry></feed>
