@@ -1,7 +1,7 @@
 ---
 layout: post
 title: コマンド紹介 - 各種情報
-date: 2024-04-10 10:00 +0900
+date: 2024-04-10 09:00 +0900
 category: "command"
 ---
 
