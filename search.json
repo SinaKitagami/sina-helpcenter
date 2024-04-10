@@ -17,14 +17,6 @@
     } ,
   
     {
-      "title"    : "コマンド紹介 - 各種情報",
-      "category" : "cmd",
-      "tags"     : "",
-      "url"      : "/category/cmd/command-info",
-      "date"     : "2024-04-10 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "スラッシュコマンドが使えない(反映されない・候補に表示されない)",
       "category" : "faq",
       "tags"     : "",
