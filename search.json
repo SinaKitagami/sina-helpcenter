@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "コマンド紹介 - ユーザー情報",
+      "category" : "cmd-information",
+      "tags"     : "",
+      "url"      : "/category/cmd-information/information-user",
+      "date"     : "2024-04-10 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "コマンド紹介 - 各種情報",
+      "category" : "command",
+      "tags"     : "",
+      "url"      : "/category/command/command-info",
+      "date"     : "2024-04-10 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "スラッシュコマンドが使えない(反映されない・候補に表示されない)",
       "category" : "faq",
       "tags"     : "",

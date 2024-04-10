@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-09T23:54:31+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">ゲームポイントとは？</title><link href="https://help.sina-chan.com/category/faq/gamepoint" rel="alternate" type="text/html" title="ゲームポイントとは？" /><published>2024-04-09T08:00:00+00:00</published><updated>2024-04-09T08:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/gamepoint</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/gamepoint"><![CDATA[<p>ゲームポイントとはミニゲームをすることによって貯まるポイントのことで、連携ロールで思惟奈ちゃんを選択することで確認することができます。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-10T00:38:56+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">コマンド紹介 - 各種情報</title><link href="https://help.sina-chan.com/category/command/command-info" rel="alternate" type="text/html" title="コマンド紹介 - 各種情報" /><published>2024-04-10T00:00:00+00:00</published><updated>2024-04-10T00:00:00+00:00</updated><id>https://help.sina-chan.com/category/command/command-info</id><content type="html" xml:base="https://help.sina-chan.com/category/command/command-info"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/information</code>から始まるコマンドの一覧です。</p>
+
+<p>2024/4/10:<a href="/category/cmd-information/information-user" class="a-orange">コマンド紹介 - ユーザー情報</a></p>]]></content><author><name></name></author><category term="command" /><summary type="html"><![CDATA[/informationから始まるコマンドの一覧です。]]></summary></entry><entry><title type="html">コマンド紹介 - ユーザー情報</title><link href="https://help.sina-chan.com/category/cmd-information/information-user" rel="alternate" type="text/html" title="コマンド紹介 - ユーザー情報" /><published>2024-04-10T00:00:00+00:00</published><updated>2024-04-10T00:00:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-information/information-user</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-information/information-user"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/information user target:[ユーザー選択]</code>または<code class="language-plaintext highlighter-rouge">/information user uid:[ユーザーID]</code></p>
+
+<p>選択したユーザーまたはユーザーIDで指定したユーザーに関する情報を表示します。</p>
+
+<p><code class="language-plaintext highlighter-rouge">uid</code>のオプション(ユーザーID)で検索した場合は以下情報は表示されません。</p>
+
+<ul>
+  <li>サーバー内基本情報</li>
+  <li>プレゼンス情報</li>
+  <li>役職情報</li>
+</ul>]]></content><author><name></name></author><category term="cmd-information" /><summary type="html"><![CDATA[/information user target:[ユーザー選択]または/information user uid:[ユーザーID]]]></summary></entry><entry><title type="html">ゲームポイントとは？</title><link href="https://help.sina-chan.com/category/faq/gamepoint" rel="alternate" type="text/html" title="ゲームポイントとは？" /><published>2024-04-09T08:00:00+00:00</published><updated>2024-04-09T08:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/gamepoint</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/gamepoint"><![CDATA[<p>ゲームポイントとはミニゲームをすることによって貯まるポイントのことで、連携ロールで思惟奈ちゃんを選択することで確認することができます。</p>
 
 <p>現在ゲームポイントを貯めることができるミニゲームは魚釣り(<code class="language-plaintext highlighter-rouge">/game fish</code>)のみとなっています。</p>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[ゲームポイントとはミニゲームをすることによって貯まるポイントのことで、連携ロールで思惟奈ちゃんを選択することで確認することができます。]]></summary></entry><entry><title type="html">スラッシュコマンドが使えない(反映されない・候補に表示されない)</title><link href="https://help.sina-chan.com/category/faq/unable-slash-command" rel="alternate" type="text/html" title="スラッシュコマンドが使えない(反映されない・候補に表示されない)" /><published>2024-04-09T08:00:00+00:00</published><updated>2024-04-09T08:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/unable-slash-command</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/unable-slash-command"><![CDATA[<p>極稀にスラッシュコマンドが反映されないまたは候補に表示されない場合があります。</p>
 
@@ -116,170 +128,4 @@
 
 <picture><source srcset="/assets/img/generator/comlock-none-400-00fbf1dc6.webp 400w, /assets/img/generator/comlock-none-600-00fbf1dc6.webp 600w, /assets/img/generator/comlock-none-800-00fbf1dc6.webp 800w, /assets/img/generator/comlock-none-1000-00fbf1dc6.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/comlock-none-400-9758b07cd.jpg 400w, /assets/img/generator/comlock-none-600-9758b07cd.jpg 600w, /assets/img/generator/comlock-none-800-9758b07cd.jpg 800w, /assets/img/generator/comlock-none-1000-9758b07cd.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/comlock-none-800-9758b07cd.jpg" /></picture>
 
-<p>設定完了後、<code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">view</code>オプションを使用し、上記の状態になっていれば問題ありません。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんが導入されているサーバーで、初めて思惟奈ちゃんを利用したユーザーは思惟奈ちゃんのシステムにユーザープロフィールを作成し、作成した旨を通知するようになっています。]]></summary></entry><entry><title type="html">プレミアムプラン・寄付について</title><link href="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3-%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" rel="alternate" type="text/html" title="プレミアムプラン・寄付について" /><published>2023-04-19T12:25:00+00:00</published><updated>2023-04-19T12:25:00+00:00</updated><id>https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3%E3%83%BB%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6</id><content type="html" xml:base="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3-%E5%AF%84%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"><![CDATA[<h2 id="プレミアムプラン">プレミアムプラン</h2>
-
-<p>プレミアムプランは月額制のサブスクリプション型の支援になります。プレミアムプランにご加入いただいた方には特典をご用意しております。</p>
-
-<ul>
-  <li><a href="https://buy.stripe.com/28o8xK1S04fucnu147">Tier3</a>  ¥500  サポートサーバーでのプレミアムプラン加入者限定チャットへのアクセス、思椎奈ちゃんクラウドへのアクセス(5GB)</li>
-  <li><a href="https://buy.stripe.com/28o29mdAI3bqbjqcMO">Tier2</a>  ¥800  Tier3の特典、グローバルチャットでの加入者限定バッジ、思椎奈ちゃんクラウド(10GB)</li>
-  <li><a href="https://buy.stripe.com/eVa3dqgMU3bqdry289">Tier1</a>  ¥1,500 Tier2の特典、一般公開前の機能やサービスへのアーリーアクセス、思椎奈ちゃんクラウド(15GB)</li>
-</ul>
-
-<p>加入は各Tier名のリンクからご加入出来ます。より高い金額での月額支援を行いたい場合は別途お問い合わせください。</p>
-
-<h2 id="寄付">寄付</h2>
-
-<p>寄付は1回ずつの単発の支援になります。</p>
-
-<p>寄付は支援いただく方で金額を決めることが出来ます。ただし、システムの都合上¥50~¥1,000,000の間となります。</p>
-
-<p>寄付は、<a href="https://donate.stripe.com/fZe6pC9kscM0gDK144">こちら</a>から受け付けております。(注意事項を必ずご確認ください。)</p>
-
-<p>寄付では金額に応じた以下のような特典をご用意しております。</p>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: right">金額(¥)</th>
-      <th style="text-align: center">無料トライアル</th>
-      <th style="text-align: center"><a href="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E6%80%9D%E6%83%9F%E5%A5%88%E3%81%A1%E3%82%83%E3%82%93%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89">思惟奈ちゃんクラウド</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: right">500~599</td>
-      <td style="text-align: center">Tier3 1ヶ月</td>
-      <td style="text-align: center">✕</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">600~699</td>
-      <td style="text-align: center">Tier3 1ヶ月</td>
-      <td style="text-align: center">◯(3GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">700~749</td>
-      <td style="text-align: center">Tier3 2ヶ月</td>
-      <td style="text-align: center">◯(3GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">750~999</td>
-      <td style="text-align: center">Tier2 1ヶ月</td>
-      <td style="text-align: center">◯(3GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,000~1,199</td>
-      <td style="text-align: center">Tier2 1ヶ月</td>
-      <td style="text-align: center">◯(5GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,200~1,399</td>
-      <td style="text-align: center">Tier2 2ヶ月</td>
-      <td style="text-align: center">◯(5GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,400~1,699</td>
-      <td style="text-align: center">Tier1 1ヶ月</td>
-      <td style="text-align: center">◯(5GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,700~1,999</td>
-      <td style="text-align: center">Tier1 1ヶ月</td>
-      <td style="text-align: center">◯(8GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">2,000~</td>
-      <td style="text-align: center">Tier1 2ヶ月</td>
-      <td style="text-align: center">◯(8GB)</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>注意事項</p>
-
-<ul>
-  <li>特典の無料トライアルの期間は変更することが可能です。その場合は以下の通りとなります。(これら以外の変更は¥2,000以上を除き受け付けておりません。)</li>
-</ul>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: right">金額(¥)</th>
-      <th style="text-align: center">無料トライアル</th>
-      <th style="text-align: center"><a href="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E6%80%9D%E6%83%9F%E5%A5%88%E3%81%A1%E3%82%83%E3%82%93%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89">思惟奈ちゃんクラウド</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: right">1,000~1,199</td>
-      <td style="text-align: center">Tier2 2ヶ月</td>
-      <td style="text-align: center">◯(3GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,200~1,399</td>
-      <td style="text-align: center">Tier2 3ヶ月</td>
-      <td style="text-align: center">◯(3GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,400~1,699</td>
-      <td style="text-align: center">Tier1 2ヶ月</td>
-      <td style="text-align: center">◯(3GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,700~1,999</td>
-      <td style="text-align: center">Tier1 2ヶ月</td>
-      <td style="text-align: center">◯(5GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">1,700~1,999</td>
-      <td style="text-align: center">Tier1 3ヶ月</td>
-      <td style="text-align: center">◯(3GB)</td>
-    </tr>
-    <tr>
-      <td style="text-align: right">2,000~</td>
-      <td style="text-align: center">Tier1 3ヶ月</td>
-      <td style="text-align: center">◯(5GB)</td>
-    </tr>
-  </tbody>
-</table>
-
-<ul>
-  <li>クラウドシステムの安定性確保の観点から思惟奈ちゃんクラウドの使用可能容量の追加は承っておりません。あらかじめご了承ください。</li>
-  <li>無料トライアルはプロモーションコードとして発行します。また、期間を問わず各Tierで1回のみとなります。</li>
-  <li>無料トライアル期間中はプレミアムプランとしての思椎奈ちゃんクラウドはご利用いただけません。</li>
-  <li>思惟奈ちゃんクラウドの使用可能容量は全ての寄付の中で最も高額だった寄付の特典に準じます。ただし、プレミアムプラン加入者は寄付の特典が使用可能容量に追加されます。</li>
-  <li>¥2,000以上は金額により個別に対応させていただく場合があります。そのため特典の一覧表はこれに限りません。</li>
-</ul>
-
-<h2 id="特定商取引法に基づく表記">特定商取引法に基づく表記</h2>
-
-<p><a href="https://sina-chan.com/legal/tradelaw">こちら</a>からご確認いただけます。</p>]]></content><author><name></name></author><category term="プレミアムプラン" /><summary type="html"><![CDATA[プレミアムプランについてご説明します。]]></summary></entry><entry><title type="html">思惟奈ちゃんクラウド</title><link href="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E6%80%9D%E6%83%9F%E5%A5%88%E3%81%A1%E3%82%83%E3%82%93%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89" rel="alternate" type="text/html" title="思惟奈ちゃんクラウド" /><published>2023-04-19T12:25:00+00:00</published><updated>2023-04-19T12:25:00+00:00</updated><id>https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E6%80%9D%E6%83%9F%E5%A5%88%E3%81%A1%E3%82%83%E3%82%93%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89</id><content type="html" xml:base="https://help.sina-chan.com/category/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/%E6%80%9D%E6%83%9F%E5%A5%88%E3%81%A1%E3%82%83%E3%82%93%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89"><![CDATA[<h2 id="思惟奈ちゃんクラウドとは">思惟奈ちゃんクラウドとは?</h2>
-
-<p>思惟奈ちゃんクラウド(Sina Cloud)とはプレミアムプラン加入者や寄付していただいた方などが使えるクラウドサービスです。</p>
-
-<p>他のクラウドサービスでは課金すると容量は多いものの高くなってしまったり、無料だとあんまり使えなかったりといった感じですが、思惟奈ちゃんクラウドは安価で他のクラウドサービスに引きを取らないような機能が充実したクラウドとなっております。</p>
-
-<p>皆さんにより安価で使いやすいクラウドを目指して運用を行っております。</p>
-
-<h2 id="思惟奈ちゃんクラウドを使うには">思惟奈ちゃんクラウドを使うには?</h2>
-
-<p>思惟奈ちゃんクラウドを使用するには原則プレミアムプランへの加入または寄付へのご協力をお願いしております。詳しくは<a href="https://sina-chan.com/premium">こちら</a>からご確認ください。</p>
-
-<h2 id="利用規約に関して">利用規約に関して</h2>
-
-<p>思惟奈ちゃんクラウドをご利用いただくには<a href="https://sina-chan.com/legal/cloud-tos">思惟奈ちゃんクラウド利用規約</a>に同意いただく必要がございます。利用規約は<a href="https://sina-chan.com/legal/cloud-tos">こちら</a>からご確認いただけます。</p>
-
-<h2 id="よくある質問">よくある質問</h2>
-
-<ul>
-  <li>容量が足りなくなりました。どうすれば良いですか?
-    <ul>
-      <li>まずは必要ないファイルを削除するなどで容量を確保してください。それでも足りない場合、プレミアムプランに加入いただいている方のみ別途対応いたします。個別にお問い合わせください。(参考 1GBあたり¥200) 寄付のみの場合は対応いたしかねます。</li>
-    </ul>
-  </li>
-  <li>どこに問い合わせればいいですか?
-    <ul>
-      <li>サポートサーバーに専用の窓口をご用意しておりますのでそちらからお願い致します。</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name></name></author><category term="プレミアムプラン" /><summary type="html"><![CDATA[思惟奈ちゃんクラウドとは?]]></summary></entry></feed>
+<p>設定完了後、<code class="language-plaintext highlighter-rouge">/comlock</code>の<code class="language-plaintext highlighter-rouge">view</code>オプションを使用し、上記の状態になっていれば問題ありません。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんが導入されているサーバーで、初めて思惟奈ちゃんを利用したユーザーは思惟奈ちゃんのシステムにユーザープロフィールを作成し、作成した旨を通知するようになっています。]]></summary></entry></feed>
