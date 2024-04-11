@@ -5,7 +5,7 @@ date: 2024-04-10 11:00 +0900
 category: "help-command"
 ---
 
-各種情報(`/information`)から始まるコマンドの一覧です。
+各種情報(`/information`)のコマンド一覧です。
 
 <ul>
     {% for post in site.categories.cmd-information reversed %}
