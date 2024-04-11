@@ -1,7 +1,7 @@
 ---
 layout: post
 title: コマンド紹介 - サーバー内言語設定
-date: 2024-04-10 13:40 +0900
+date: 2024-04-11 11:00 +0900
 category: "cmd-setting"
 ---
 
