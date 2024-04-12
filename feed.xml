@@ -1,123 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-10T04:45:05+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">プレミアムプランのプラン変更・キャンセル</title><link href="https://help.sina-chan.com/category/donate/plan-change_cancel" rel="alternate" type="text/html" title="プレミアムプランのプラン変更・キャンセル" /><published>2024-04-10T04:00:00+00:00</published><updated>2024-04-10T04:00:00+00:00</updated><id>https://help.sina-chan.com/category/donate/plan-change_cancel</id><content type="html" xml:base="https://help.sina-chan.com/category/donate/plan-change_cancel"><![CDATA[<p>プレミアムプランのプラン変更・キャンセルは提携先である<a href="https://billing.stripe.com/p/login/dR629U49v5eS9wcfYY" class="a-orange">Stripeのカスタマーポータル</a>より行えます。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-04-12T03:52:48+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">コマンド紹介 - ボリューム調整</title><link href="https://help.sina-chan.com/category/cmd-music/volume" rel="alternate" type="text/html" title="コマンド紹介 - ボリューム調整" /><published>2024-04-12T02:20:00+00:00</published><updated>2024-04-12T02:20:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/volume</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/volume"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music volume vol:[0~100%]</code></p>
 
-<p>なお、掲載しているスクリーンショットはテスト環境のものですが、UI等は本番環境と同じです。</p>
+<p>指定した値にボリュームを調整します。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music volume vol:[0~100%]]]></summary></entry><entry><title type="html">コマンド紹介 - スキップ</title><link href="https://help.sina-chan.com/category/cmd-music/skip" rel="alternate" type="text/html" title="コマンド紹介 - スキップ" /><published>2024-04-12T02:15:00+00:00</published><updated>2024-04-12T02:15:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/skip</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/skip"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music skip</code>または<code class="language-plaintext highlighter-rouge">/music skip index:[項目の番号]</code></p>
 
-<picture><source srcset="/assets/img/generator/stripe-start-400-9b2c3e025.webp 400w, /assets/img/generator/stripe-start-600-9b2c3e025.webp 600w, /assets/img/generator/stripe-start-800-9b2c3e025.webp 800w, /assets/img/generator/stripe-start-1000-9b2c3e025.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-start-400-b6542747d.jpg 400w, /assets/img/generator/stripe-start-600-b6542747d.jpg 600w, /assets/img/generator/stripe-start-800-b6542747d.jpg 800w, /assets/img/generator/stripe-start-1000-b6542747d.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-start-800-b6542747d.jpg" /></picture>
+<p>音楽をスキップします。</p>
 
-<p>プランを変更したい場合は「プランを変更」より、プランのキャンセルは「プランをキャンセル」より行えます。</p>
+<p>2つ以上スキップしたい場合は<code class="language-plaintext highlighter-rouge">/music queue</code>から再生キューを確認の上、<code class="language-plaintext highlighter-rouge">index</code>で番号を入力することで複数スキップが可能です。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music skipまたは/music skip index:[項目の番号]]]></summary></entry><entry><title type="html">コマンド紹介 - 再生キューのシャッフル</title><link href="https://help.sina-chan.com/category/cmd-music/shuffle" rel="alternate" type="text/html" title="コマンド紹介 - 再生キューのシャッフル" /><published>2024-04-12T02:10:00+00:00</published><updated>2024-04-12T02:10:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/shuffle</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/shuffle"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music shuffle</code></p>
 
-<h2 id="1-プランの変更">1. プランの変更</h2>
+<p>再生キューをシャッフルします。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music shuffle]]></summary></entry><entry><title type="html">コマンド紹介 - 再生キューから項目の削除</title><link href="https://help.sina-chan.com/category/cmd-music/remove" rel="alternate" type="text/html" title="コマンド紹介 - 再生キューから項目の削除" /><published>2024-04-12T02:05:00+00:00</published><updated>2024-04-12T02:05:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/remove</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/remove"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music remove index:[項目の番号]</code></p>
 
-<picture><source srcset="/assets/img/generator/stripe-change-plan-400-fe4434ae4.webp 400w, /assets/img/generator/stripe-change-plan-600-fe4434ae4.webp 600w, /assets/img/generator/stripe-change-plan-800-fe4434ae4.webp 800w, /assets/img/generator/stripe-change-plan-1000-fe4434ae4.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-change-plan-400-8531f6098.jpg 400w, /assets/img/generator/stripe-change-plan-600-8531f6098.jpg 600w, /assets/img/generator/stripe-change-plan-800-8531f6098.jpg 800w, /assets/img/generator/stripe-change-plan-1000-8531f6098.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-change-plan-800-8531f6098.jpg" /></picture>
+<p>再生キューから音楽を削除します。</p>
 
-<p>プラン変更画面ではいつでもプランの変更が可能です。プランの変更は即時反映されます。</p>
+<p><code class="language-plaintext highlighter-rouge">index</code>の入力には<code class="language-plaintext highlighter-rouge">/music queue</code>で再生キューの情報を確認する必要があります。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music remove index:[項目の番号]]]></summary></entry><entry><title type="html">コマンド紹介 - 再生キューの確認</title><link href="https://help.sina-chan.com/category/cmd-music/queue" rel="alternate" type="text/html" title="コマンド紹介 - 再生キューの確認" /><published>2024-04-12T02:00:00+00:00</published><updated>2024-04-12T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/queue</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/queue"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music queue pg:[ページ数]</code></p>
 
-<p>プランを変更する場合の支払いに関しては以下のとおりです。</p>
+<p>再生キューを確認します。</p>
 
-<ul>
-  <li>上位プランに変更する場合<br />現在のプランの残り期間より残額を自動計算し、新プランの料金に割引を行います。</li>
-  <li>下位プランに変更する場合<br />現在のプランの残り期間より残額を自動計算し、 新プランの支払いに充当します。充当後の残額はアカウント残額として今後の支払いに利用できます。</li>
-</ul>
+<p>1ページに5つ表示できるため、はじめから2ページ目以降を確認したい場合は<code class="language-plaintext highlighter-rouge">pg</code>オプションを使用してください。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music queue pg:[ページ数]]]></summary></entry><entry><title type="html">コマンド紹介 - プレイリストから項目を削除</title><link href="https://help.sina-chan.com/category/cmd-music/playlist-remove" rel="alternate" type="text/html" title="コマンド紹介 - プレイリストから項目を削除" /><published>2024-04-12T01:55:00+00:00</published><updated>2024-04-12T01:55:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/playlist-remove</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/playlist-remove"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music playlist_manager remove name:[プレイリスト名] index:[削除する項目の番号]</code></p>
 
-<h2 id="2-プランのキャンセル">2. プランのキャンセル</h2>
+<p>プレイリストから音楽を削除します。</p>
 
-<picture><source srcset="/assets/img/generator/stripe-cancel-plan-400-1a71d327c.webp 400w, /assets/img/generator/stripe-cancel-plan-600-1a71d327c.webp 600w, /assets/img/generator/stripe-cancel-plan-800-1a71d327c.webp 800w, /assets/img/generator/stripe-cancel-plan-1000-1a71d327c.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-cancel-plan-400-bd468d7c5.jpg 400w, /assets/img/generator/stripe-cancel-plan-600-bd468d7c5.jpg 600w, /assets/img/generator/stripe-cancel-plan-800-bd468d7c5.jpg 800w, /assets/img/generator/stripe-cancel-plan-1000-bd468d7c5.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-cancel-plan-800-bd468d7c5.jpg" /></picture>
+<p><code class="language-plaintext highlighter-rouge">index</code>の入力には<code class="language-plaintext highlighter-rouge">/music playlist_manager check name:[プレイリスト名]</code>でプレイリストの情報を確認する必要があります。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager remove name:[プレイリスト名] index:[削除する項目の番号]]]></summary></entry><entry><title type="html">コマンド紹介 - 再生キューの音楽をプレイリストに追加</title><link href="https://help.sina-chan.com/category/cmd-music/playlist-queue" rel="alternate" type="text/html" title="コマンド紹介 - 再生キューの音楽をプレイリストに追加" /><published>2024-04-12T01:50:00+00:00</published><updated>2024-04-12T01:50:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/playlist-queue</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/playlist-queue"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music playlist_manager get_queue name:[プレイリスト名]</code></p>
 
-<p>プランのキャンセルでは確認画面が表示されます。そのままプランのキャンセルを選択した場合は、請求期間の終了日まで特典をご利用いただけます。</p>
+<p>再生キューに入っている全ての音楽を指定したプレイリストに追加します。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager get_queue name:[プレイリスト名]]]></summary></entry><entry><title type="html">コマンド紹介 - プレイリスト削除</title><link href="https://help.sina-chan.com/category/cmd-music/playlist-delete" rel="alternate" type="text/html" title="コマンド紹介 - プレイリスト削除" /><published>2024-04-12T01:45:00+00:00</published><updated>2024-04-12T01:45:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/playlist-delete</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/playlist-delete"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music playlist_manager delete name:[プレイリスト名]</code></p>
 
-<picture><source srcset="/assets/img/generator/stripe-after-cancel-400-840e21d16.webp 400w, /assets/img/generator/stripe-after-cancel-600-840e21d16.webp 600w, /assets/img/generator/stripe-after-cancel-800-840e21d16.webp 800w, /assets/img/generator/stripe-after-cancel-1000-840e21d16.webp 1000w" type="image/webp" /><source srcset="/assets/img/generator/stripe-after-cancel-400-79281dc3a.jpg 400w, /assets/img/generator/stripe-after-cancel-600-79281dc3a.jpg 600w, /assets/img/generator/stripe-after-cancel-800-79281dc3a.jpg 800w, /assets/img/generator/stripe-after-cancel-1000-79281dc3a.jpg 1000w" type="image/jpeg" /><img src="/assets/img/generator/stripe-after-cancel-800-79281dc3a.jpg" /></picture>
+<p>指定したプレイリストを削除します。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager delete name:[プレイリスト名]]]></summary></entry><entry><title type="html">コマンド紹介 - プレイリストの確認</title><link href="https://help.sina-chan.com/category/cmd-music/playlist-check" rel="alternate" type="text/html" title="コマンド紹介 - プレイリストの確認" /><published>2024-04-12T01:40:00+00:00</published><updated>2024-04-12T01:40:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/playlist-check</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/playlist-check"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music playlist_manager check</code>または<code class="language-plaintext highlighter-rouge">/music playlist_manager check name:[プレイリスト名]</code></p>
 
-<p>キャンセル後プランの変更・プランの更新(再開)を行うことができます。</p>]]></content><author><name></name></author><category term="donate" /><summary type="html"><![CDATA[プレミアムプランのプラン変更・キャンセルは提携先であるStripeのカスタマーポータルより行えます。]]></summary></entry><entry><title type="html">コマンド紹介 - 各種情報</title><link href="https://help.sina-chan.com/category/help-command/info-user" rel="alternate" type="text/html" title="コマンド紹介 - 各種情報" /><published>2024-04-10T02:00:00+00:00</published><updated>2024-04-10T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/help-command/info-user</id><content type="html" xml:base="https://help.sina-chan.com/category/help-command/info-user"><![CDATA[<p>各種情報(<code class="language-plaintext highlighter-rouge">/information</code>)から始まるコマンドの一覧です。</p>
+<p>保存されているプレイリストの一覧または指定したプレイリストに登録されている音楽の一覧を表示します。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager checkまたは/music playlist_manager check name:[プレイリスト名]]]></summary></entry><entry><title type="html">コマンド紹介 - プレイリストへの追加</title><link href="https://help.sina-chan.com/category/cmd-music/playlist-add" rel="alternate" type="text/html" title="コマンド紹介 - プレイリストへの追加" /><published>2024-04-12T01:35:00+00:00</published><updated>2024-04-12T01:35:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/playlist-add</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/playlist-add"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music playlist_manager add name:[プレイリスト名] url:[追加したい音楽のURL]</code></p>
 
-<ul>
-    
-            <p>2024/4/10 - <a href="/category/cmd-information/information-server">コマンド紹介 - サーバー情報</a></p>
-    
-            <p>2024/4/10 - <a href="/category/cmd-information/information-user">コマンド紹介 - ユーザー情報</a></p>
-    
-</ul>]]></content><author><name></name></author><category term="help-command" /><summary type="html"><![CDATA[各種情報(/information)から始まるコマンドの一覧です。]]></summary></entry><entry><title type="html">コマンド紹介 - サーバー情報</title><link href="https://help.sina-chan.com/category/cmd-information/information-server" rel="alternate" type="text/html" title="コマンド紹介 - サーバー情報" /><published>2024-04-10T02:00:00+00:00</published><updated>2024-04-10T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-information/information-server</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-information/information-server"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/information server</code></p>
+<p>指定したプレイリスト(存在しない場合は自動的に作成されます)に音楽を追加します。</p>
 
-<p><u>コマンドを実行したサーバー</u>に関する情報を表示します。</p>
-
-<p>ユーザー情報検索とは異なり、他サーバーの情報を表示することはできません。</p>]]></content><author><name></name></author><category term="cmd-information" /><summary type="html"><![CDATA[/information server]]></summary></entry><entry><title type="html">コマンド紹介 - ユーザー情報</title><link href="https://help.sina-chan.com/category/cmd-information/information-user" rel="alternate" type="text/html" title="コマンド紹介 - ユーザー情報" /><published>2024-04-10T00:00:00+00:00</published><updated>2024-04-10T00:00:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-information/information-user</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-information/information-user"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/information user target:[ユーザー選択]</code>または<code class="language-plaintext highlighter-rouge">/information user uid:[ユーザーID]</code></p>
-
-<p>選択したユーザーまたはユーザーIDで指定したユーザーに関する情報を表示します。</p>
-
-<p><code class="language-plaintext highlighter-rouge">uid</code>のオプション(ユーザーID)で検索した場合は以下情報は表示されません。</p>
-
-<ul>
-  <li>サーバー内基本情報</li>
-  <li>プレゼンス情報</li>
-  <li>役職情報</li>
-</ul>]]></content><author><name></name></author><category term="cmd-information" /><summary type="html"><![CDATA[/information user target:[ユーザー選択]または/information user uid:[ユーザーID]]]></summary></entry><entry><title type="html">ゲームポイントとは？</title><link href="https://help.sina-chan.com/category/faq/gamepoint" rel="alternate" type="text/html" title="ゲームポイントとは？" /><published>2024-04-09T08:00:00+00:00</published><updated>2024-04-09T08:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/gamepoint</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/gamepoint"><![CDATA[<p>ゲームポイントとはミニゲームをすることによって貯まるポイントのことで、連携ロールで思惟奈ちゃんを選択することで確認することができます。</p>
-
-<p>現在ゲームポイントを貯めることができるミニゲームは魚釣り(<code class="language-plaintext highlighter-rouge">/game fish</code>)のみとなっています。</p>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[ゲームポイントとはミニゲームをすることによって貯まるポイントのことで、連携ロールで思惟奈ちゃんを選択することで確認することができます。]]></summary></entry><entry><title type="html">スラッシュコマンドが使えない(反映されない・候補に表示されない)</title><link href="https://help.sina-chan.com/category/faq/unable-slash-command" rel="alternate" type="text/html" title="スラッシュコマンドが使えない(反映されない・候補に表示されない)" /><published>2024-04-09T08:00:00+00:00</published><updated>2024-04-09T08:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/unable-slash-command</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/unable-slash-command"><![CDATA[<p>極稀にスラッシュコマンドが反映されないまたは候補に表示されない場合があります。</p>
-
-<p>こちらとしては、原因不明かつどうにかできる問題ではない(Discord側の問題)ため、こちらから復旧対応を行うことはできません。</p>
-
-<p>現在確認している事例においては以下の要因により発生する可能性がありますのでご確認頂ますようお願い致します。</p>
-
-<ul>
-  <li>サーバーに導入されている中で、スラッシュコマンドに対応しているBotが多すぎる</li>
-  <li>思惟奈ちゃんの導入の段階で何らかの問題が起こっている<br />導入ガイドは<a href="https://help.sina-chan.com/config/join-server" class="a-orange">こちら</a>よりご確認いただけます</li>
-</ul>
-
-<p>一部のチャンネルまたは一部のメンバーが使えない場合は権限設定に問題がある場合があります。</p>
-
-<dl>
-  <dt>1. スラッシュコマンドをしようとしているチャンネルで「アプリコマンドを使う」が有効になっていること</dt>
-  <dd>確認には「チャンネルの管理」権限が必要です</dd>
-  <dt>2. 自分のプロフィールの一番上のロールまたは@everyone(何もロールがついていない場合)で「アプリコマンドを使う」が有効になっていること</dt>
-  <dd>確認には「ロールの管理」権限が必要です</dd>
-</dl>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[極稀にスラッシュコマンドが反映されないまたは候補に表示されない場合があります。]]></summary></entry><entry><title type="html">システム通知</title><link href="https://help.sina-chan.com/category/trust-and-safety/system-notice" rel="alternate" type="text/html" title="システム通知" /><published>2024-04-09T03:00:00+00:00</published><updated>2024-04-09T03:00:00+00:00</updated><id>https://help.sina-chan.com/category/trust-and-safety/system-notice</id><content type="html" xml:base="https://help.sina-chan.com/category/trust-and-safety/system-notice"><![CDATA[<p>運営よりユーザーに対して個別で情報を通知する際には、ダイレクトメッセージのシステムを利用し、思惟奈ちゃんのBotアカウントより通知することがあります。</p>
-
-<p>これらの通知は現在は以下の場合に限り使用しています。</p>
-
-<ul>
-  <li>ペナルティを科す場合</li>
-  <li>Bot利用に関して何らかの通知を行う場合(サーバーオーナーに対してのみ)</li>
-</ul>
-
-<p>Botアカウントの通知に関しては返信してもメッセージは返ってきませんのでご注意ください。</p>
-
-<p>また、Botアカウントではなく直接運営のアカウントよりお知らせする場合もあります。</p>
-
-<p>運営アカウントからの通知の場合は、返信する前にアカウントがなりすましではないかを確認してください。</p>
-
-<p>万が一、なりすましの場合は、<a href="https://support.center.sina-chan.com/servicedesk/customer/portal/1/group/1/create/19" class="a-orange">こちら</a>より通報をお願い致します。</p>]]></content><author><name></name></author><category term="trust-and-safety" /><summary type="html"><![CDATA[運営よりユーザーに対して個別で情報を通知する際には、ダイレクトメッセージのシステムを利用し、思惟奈ちゃんのBotアカウントより通知することがあります。]]></summary></entry><entry><title type="html">レベル機能のオフ</title><link href="https://help.sina-chan.com/category/config/disable-level" rel="alternate" type="text/html" title="レベル機能のオフ" /><published>2024-04-09T02:00:00+00:00</published><updated>2024-04-09T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/config/disable-level</id><content type="html" xml:base="https://help.sina-chan.com/category/config/disable-level"><![CDATA[<p>レベル機能を無効化するためには、<code class="language-plaintext highlighter-rouge">/settings toggle_features feature_name:level_count enable:False</code>にて行うことができます。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[レベル機能を無効化するためには、/settings toggle_features feature_name:level_count enable:Falseにて行うことができます。]]></summary></entry><entry><title type="html">あのアイコン(バッジ)って？</title><link href="https://help.sina-chan.com/category/faq/gchat-icon" rel="alternate" type="text/html" title="あのアイコン(バッジ)って？" /><published>2024-04-09T02:00:00+00:00</published><updated>2024-04-09T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/faq/gchat-icon</id><content type="html" xml:base="https://help.sina-chan.com/category/faq/gchat-icon"><![CDATA[<p>グローバルチャットではユーザー情報に応じてアイコン(バッジ)を表示しています。</p>
-
-<p>バッジは端末依存のためスクリーンショットとは異なる場合があります。</p>
-
-<picture><source srcset="/assets/img/generator/gchat-icon-400-1e3b04928.webp 400w, /assets/img/generator/gchat-icon-600-1e3b04928.webp 600w, /assets/img/generator/gchat-icon-625-1e3b04928.webp 625w" type="image/webp" /><source srcset="/assets/img/generator/gchat-icon-400-c175836bb.jpg 400w, /assets/img/generator/gchat-icon-600-c175836bb.jpg 600w, /assets/img/generator/gchat-icon-625-c175836bb.jpg 625w" type="image/jpeg" /><img src="/assets/img/generator/gchat-icon-625-c175836bb.jpg" /></picture>
-
-<ol>
-  <li>チーム☆思惟奈ちゃん(運営)メンバー</li>
-  <li>思惟奈ちゃん認証済みアカウント<br />認証済みアカウントは<a href="https://home.sina-chan.com/legal/partner-verify" class="a-orange">こちらのポリシー</a>に従って管理しています。</li>
-  <li>グローバルチャットモデレーター</li>
-  <li>ドネートユーザーバッジ<br />ドネートに関して詳しくは<a href="https://home.sina-chan.com/donate" class="a-orange">こちら</a>よりご確認ください。</li>
-  <li>スターユーザー(現在は原則付与していません)<br /><a href="https://home.sina-chan.com/legal/gchat-tos" class="a-orange">グローバルチャット利用規約</a>におけるアカウント作成日の制限がないユーザー</li>
-  <li>Music Activity Viewer ベータ参加者(現在は付与していません)</li>
-</ol>]]></content><author><name></name></author><category term="faq" /><summary type="html"><![CDATA[グローバルチャットではユーザー情報に応じてアイコン(バッジ)を表示しています。]]></summary></entry><entry><title type="html">サーバーへの導入</title><link href="https://help.sina-chan.com/category/config/join-server" rel="alternate" type="text/html" title="サーバーへの導入" /><published>2024-04-09T02:00:00+00:00</published><updated>2024-04-09T02:00:00+00:00</updated><id>https://help.sina-chan.com/category/config/join-server</id><content type="html" xml:base="https://help.sina-chan.com/category/config/join-server"><![CDATA[<blockquote>
-  <p>思惟奈ちゃんをサーバーに導入するには導入するサーバーにおけるサーバー管理権限が必要です。(caution)</p>
-</blockquote>
-
-<p><a href="https://home.sina-chan.com/discord-bot" class="a-orange">こちらのBot招待リンク</a>より導入したいサーバーを選ぶことにより思惟奈ちゃんをサーバーに導入することができます。</p>
-
-<p>導入後は、主要な機能は全てスラッシュから始まるスラッシュコマンドで使用可能です。</p>
-
-<p>なお、これまで通りのs-から始まるprefixコマンドも使用可能ですが、ヘルプコマンド(<code class="language-plaintext highlighter-rouge">/help</code>)のメンテナンス実施中につき、コマンドが確認できないためおすすめしません。</p>
-
-<p>万が一、スラッシュコマンドが使用できない場合は以下の2点をご確認ください。</p>
-
-<p>2点の確認には「チャンネルの管理」権限または「ロールの管理」権限が必要です。  権限がない場合は、サーバーの管理者または運営の方にご確認ください。</p>
-
-<dl>
-  <dt>1. スラッシュコマンドをしようとしているチャンネルで「アプリコマンドを使う」が有効になっていること</dt>
-  <dd>確認には「チャンネルの管理」権限が必要です</dd>
-  <dt>2. 自分のプロフィールの一番上のロールまたは@everyone(何もロールがついていない場合)で「アプリコマンドを使う」が有効になっていること</dt>
-  <dd>確認には「ロールの管理」権限が必要です</dd>
-</dl>
-
-<p>それでも使用できない場合はサーバーの設定(「連携サービス」→「思惟奈ちゃん」)をご確認ください。</p>
-
-<p>万が一解決しなかった場合はお手数をおかけしますがお問い合わせいただきますようお願い申し上げます。</p>]]></content><author><name></name></author><category term="config" /><summary type="html"><![CDATA[思惟奈ちゃんをサーバーに導入するには導入するサーバーにおけるサーバー管理権限が必要です。(caution)]]></summary></entry></feed>
+<p>プレイリストは<code class="language-plaintext highlighter-rouge">/music play text:list:[プレイリスト名]</code>で再生できます。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager add name:[プレイリスト名] url:[追加したい音楽のURL]]]></summary></entry></feed>
