@@ -1,6 +1,6 @@
 ---
 layout: post
-title: コマンド紹介 - 項目を削除
+title: コマンド紹介 - プレイリストから項目を削除
 date: 2024-04-12 10:55 +0900
 category: "cmd-music"
 ---
