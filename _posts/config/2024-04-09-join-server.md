@@ -7,7 +7,7 @@ category: "config"
 
 > 思惟奈ちゃんをサーバーに導入するには導入するサーバーにおけるサーバー管理権限が必要です。(caution)
 
-<a href="https://home.sina-chan.com/discord-bot" class="a-orange">こちらのBot招待リンク</a>より導入したいサーバーを選ぶことにより思惟奈ちゃんをサーバーに導入することができます。
+<a href="https://home.sina-chan.com/discord-app" class="a-orange">こちらのApp(旧Bot)招待リンク</a>より導入したいサーバーを選ぶことにより思惟奈ちゃんをサーバーに導入することができます。
 
 導入後は、主要な機能は全てスラッシュから始まるスラッシュコマンドで使用可能です。
 

@@ -15,7 +15,7 @@
         <div class="main_article_content">
                 <p>{{ site.categories[page.title] | size }}個の記事がカテゴリに属しています。</p>
                 <ul class="posts">
-                    {% for post in page.posts %}
+                    {% for post in page.posts reversed %}
                         <li>
                             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                             <span class="post-date">{{ post.date | date:"%Y/%-m/%d" }}</span>
@@ -24,7 +24,6 @@
                 </ul>
         </div>
     </section>
-
     {% include footer.html %}
 </body>
 
