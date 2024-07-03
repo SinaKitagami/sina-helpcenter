@@ -153,10 +153,6 @@
 <lastmod>2024-04-11T05:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://help.sina-chan.com/category/cmd-level/work-in-progress</loc>
-<lastmod>2024-04-11T05:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>https://help.sina-chan.com/category/cmd-music/mav</loc>
 <lastmod>2024-04-11T05:00:00+00:00</lastmod>
 </url>
@@ -269,6 +265,10 @@
 <lastmod>2024-04-12T02:20:00+00:00</lastmod>
 </url>
 <url>
+<loc>https://help.sina-chan.com/category/cmd-level/level-card</loc>
+<lastmod>2024-05-08T01:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://help.sina-chan.com/category.html</loc>
 </url>
 <url>
@@ -317,9 +317,6 @@
 <loc>https://help.sina-chan.com/category/cmd-globalchat/</loc>
 </url>
 <url>
-<loc>https://help.sina-chan.com/category/cmd-level/</loc>
-</url>
-<url>
 <loc>https://help.sina-chan.com/category/cmd-music/</loc>
 </url>
 <url>
@@ -335,7 +332,10 @@
 <loc>https://help.sina-chan.com/category/cmd-search/</loc>
 </url>
 <url>
+<loc>https://help.sina-chan.com/category/cmd-level/</loc>
+</url>
+<url>
 <loc>https://help.sina-chan.com/api-docs.html</loc>
-<lastmod>2024-04-23T10:25:50+00:00</lastmod>
+<lastmod>2024-07-03T13:12:57+00:00</lastmod>
 </url>
 </urlset>

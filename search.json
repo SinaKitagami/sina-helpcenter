@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "コマンド紹介 - レベルカード",
+      "category" : "cmd-level",
+      "tags"     : "",
+      "url"      : "/category/cmd-level/level-card",
+      "date"     : "2024-05-08 01:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "コマンド紹介 - ボリューム調整",
       "category" : "cmd-music",
       "tags"     : "",
@@ -221,14 +229,6 @@
       "category" : "cmd-music",
       "tags"     : "",
       "url"      : "/category/cmd-music/mav",
-      "date"     : "2024-04-11 05:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "コマンド紹介 - WORK IN PROGRESS",
-      "category" : "cmd-level",
-      "tags"     : "",
-      "url"      : "/category/cmd-level/work-in-progress",
       "date"     : "2024-04-11 05:00:00 +0000"
     } ,
   
