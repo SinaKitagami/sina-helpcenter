@@ -7,12 +7,12 @@
   <meta charset="utf-8">
 
   
-  <title>コマンド紹介 - プレイリストの確認 - 思惟奈ちゃんヘルプセンター</title>
+  <title>OpenSSHの脆弱性(CVE-2024-6387)に関して - 思惟奈ちゃんヘルプセンター</title>
   
 
   
-  <meta property="og:title"  content="コマンド紹介 - プレイリストの確認 - 思惟奈ちゃんヘルプセンター" />
-  <meta name="twitter:title" content="コマンド紹介 - プレイリストの確認 - 思惟奈ちゃんヘルプセンター">
+  <meta property="og:title"  content="OpenSSHの脆弱性(CVE-2024-6387)に関して - 思惟奈ちゃんヘルプセンター" />
+  <meta name="twitter:title" content="OpenSSHの脆弱性(CVE-2024-6387)に関して - 思惟奈ちゃんヘルプセンター">
   
 
   
@@ -28,7 +28,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="shortcut icon" href="/assets/img/icon.png">
 
-  <meta property="og:url"       content="https://help.sina-chan.com/category/cmd-music/playlist-check" />
+  <meta property="og:url"       content="https://help.sina-chan.com/category/notice/openssh-cve" />
   <meta property="og:site_name" content="思惟奈ちゃんヘルプセンター" />
   <meta property="og:type"      content="website" />
   <meta property="og:locale"    content="ja_JP"   />
@@ -77,18 +77,29 @@ SimpleJekyllSearch({
     <ul class="breadcrumbs">
         <li class="page-item"><a href="/" class="page-link">ヘルプセンター</a></li>
         <li class="page-item"><a href="/category" class="page-link">カテゴリ一覧</a></li>
-        <li class="page-item"><a href="/category/cmd-music" class="page-link">cmd-music</a></li>
+        <li class="page-item"><a href="/category/notice" class="page-link">notice</a></li>
         <li class="page-item"><a href="#" class="page-link"></a></li>
     </ul>
 
     <section class="main_article">
-        <h1>コマンド紹介 - プレイリストの確認</h1>
-        <p>cmd-music | 2024/4/12</p>
+        <h1>OpenSSHの脆弱性(CVE-2024-6387)に関して</h1>
+        <p>notice | 2024/7/03</p>
         <hr>
         <div class="main_article_content">
-            <p><code class="language-plaintext highlighter-rouge">/music playlist_manager check</code>または<code class="language-plaintext highlighter-rouge">/music playlist_manager check name:[プレイリスト名]</code></p>
+            <p>先日Xでも話題になっておりましたが、OpenSSHにおける重大かつ緊急性の高い脆弱性情報が発表されました。(<a href="https://www.cve.org/CVERecord?id=CVE-2024-6387" class="a-orange">CVE-2024-6387</a>)</p>
 
-<p>保存されているプレイリストの一覧または指定したプレイリストに登録されている音楽の一覧を表示します。</p>
+<p>本脆弱性の影響は以下の通りです。</p>
+
+<ul>
+  <li>リモートからroot権限(Administrator)にて任意のコードが実行される可能性</li>
+  <li>リモートからsshd(SSH接続のための常駐プログラム)のクラッシュを引き起こされる可能性</li>
+</ul>
+
+<p>本チームでは本脆弱性の公開後、<a href="https://status.sina-chan.com/cly2zcv3w21918b5oaen5wfikh" class="a-orange">緊急メンテナンス</a>を実施し、全サーバーにて脆弱性に対する当該ソフトウェアのアップデートを実施しました。</p>
+
+<p>つきましては、本チームにて使用している全てのサーバーにおきまして、本脆弱性への対応を完了しております。ご安心してご利用ください。</p>
+
+<p>今後とも思椎奈ちゃんをよろしくお願いいたします。</p>
 
         </div>
         <hr>
