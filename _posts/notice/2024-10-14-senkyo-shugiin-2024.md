@@ -5,9 +5,6 @@ date: 2024-10-14 19:17 +0900
 category: "notice"
 ---
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
 明日第50回衆議院議員総選挙および第26回最高裁判所裁判官国民審査が告示されます。
 
 本選挙において、グローバルチャット・ボトルメールにて一部規制を実施します。
