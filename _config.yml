@@ -42,7 +42,6 @@ plugins:
   - jekyll-gist
   - jekyll-twitter-plugin
   - jekyll-sitemap
-  - jekyll-github-alerts
 
 lang: ja-jp
 
