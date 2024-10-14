@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "第50回衆議院議員総選挙・第26回最高裁判所裁判官国民審査について",
+      "category" : "notice",
+      "tags"     : "",
+      "url"      : "/category/notice/senkyo-shugiin-2024",
+      "date"     : "2024-10-14 10:17:00 +0000"
+    } ,
+  
+    {
       "title"    : "OpenSSHの脆弱性(CVE-2024-6387)に関して",
       "category" : "notice",
       "tags"     : "",

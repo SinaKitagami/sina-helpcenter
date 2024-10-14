@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-07-03T18:07:09+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">OpenSSHの脆弱性(CVE-2024-6387)に関して</title><link href="https://help.sina-chan.com/category/notice/openssh-cve" rel="alternate" type="text/html" title="OpenSSHの脆弱性(CVE-2024-6387)に関して" /><published>2024-07-03T14:00:00+00:00</published><updated>2024-07-03T14:00:00+00:00</updated><id>https://help.sina-chan.com/category/notice/openssh-cve</id><content type="html" xml:base="https://help.sina-chan.com/category/notice/openssh-cve"><![CDATA[<p>先日Xでも話題になっておりましたが、OpenSSHにおける重大かつ緊急性の高い脆弱性情報が発表されました。(<a href="https://www.cve.org/CVERecord?id=CVE-2024-6387" class="a-orange">CVE-2024-6387</a>)</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja-jp"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://help.sina-chan.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://help.sina-chan.com/" rel="alternate" type="text/html" hreflang="ja-jp" /><updated>2024-10-14T10:24:32+00:00</updated><id>https://help.sina-chan.com/feed.xml</id><title type="html">思惟奈ちゃんヘルプセンター</title><subtitle>Discordボット 思惟奈ちゃんのヘルプセンターです。何か不具合が発生した場合や、お困りの際にご利用ください。</subtitle><entry><title type="html">第50回衆議院議員総選挙・第26回最高裁判所裁判官国民審査について</title><link href="https://help.sina-chan.com/category/notice/senkyo-shugiin-2024" rel="alternate" type="text/html" title="第50回衆議院議員総選挙・第26回最高裁判所裁判官国民審査について" /><published>2024-10-14T10:17:00+00:00</published><updated>2024-10-14T10:17:00+00:00</updated><id>https://help.sina-chan.com/category/notice/senkyo-shugiin-2024</id><content type="html" xml:base="https://help.sina-chan.com/category/notice/senkyo-shugiin-2024"><![CDATA[<p>明日第50回衆議院議員総選挙および第26回最高裁判所裁判官国民審査が告示されます。</p>
+
+<p>本選挙において、グローバルチャット・ボトルメールにて一部規制を実施します。</p>
+
+<h2 id="i-第50回衆議院議員総選挙">I. 第50回衆議院議員総選挙</h2>
+
+<h3 id="1-告示日より前投票日当日">1. 告示日より前・投票日当日</h3>
+
+<p>公職選挙法に基づき一切禁止とします。</p>
+
+<h3 id="2-投票日前日まで">2. 投票日前日まで</h3>
+
+<p>特定個人名を含んだものを除き、許可します。</p>
+
+<p>なお、内容は全てファクトに基づいたもののみ許可します。</p>
+
+<p>まとめサイトの情報やファクトチェックが不十分なものなどに基づいた情報は<strong>一切禁止とします。</strong></p>
+
+<h2 id="ii-第26回最高裁判所裁判官国民審査">II. 第26回最高裁判所裁判官国民審査</h2>
+
+<h3 id="1-告示日より前投票日当日-1">1. 告示日より前・投票日当日</h3>
+
+<p>公職選挙法に基づき一切禁止とします。</p>
+
+<h3 id="2-投票日前日まで-1">2. 投票日前日まで</h3>
+
+<p>全て許可します。</p>
+
+<p>なお、内容は全てファクトに基づいたもののみ許可します。</p>
+
+<p>まとめサイトの情報やファクトチェックが不十分なものなどに基づいた情報は<strong>一切禁止とします。</strong></p>
+
+<h2 id="iii-ペナルティの処理">III. ペナルティの処理</h2>
+
+<p>15日~26日までの選挙活動においては、本規制に違反したものは削除しますが、各規約に違反するような内容でない限りペナルティは科されません。</p>
+
+<p>しかし、何度も削除対象となるメッセージを送信した場合、ペナルティを科す場合があります。</p>
+
+<p>これらの期間以外の選挙活動は公職選挙法違反となるため、共通利用規約に基づきペナルティを科します。また、各規約に違反する内容であった場合は、ペナルティポリシーに基づき、合計したペナルティを科します。</p>]]></content><author><name></name></author><category term="notice" /><summary type="html"><![CDATA[明日第50回衆議院議員総選挙および第26回最高裁判所裁判官国民審査が告示されます。]]></summary></entry><entry><title type="html">OpenSSHの脆弱性(CVE-2024-6387)に関して</title><link href="https://help.sina-chan.com/category/notice/openssh-cve" rel="alternate" type="text/html" title="OpenSSHの脆弱性(CVE-2024-6387)に関して" /><published>2024-07-03T14:00:00+00:00</published><updated>2024-07-03T14:00:00+00:00</updated><id>https://help.sina-chan.com/category/notice/openssh-cve</id><content type="html" xml:base="https://help.sina-chan.com/category/notice/openssh-cve"><![CDATA[<p>先日Xでも話題になっておりましたが、OpenSSHにおける重大かつ緊急性の高い脆弱性情報が発表されました。(<a href="https://www.cve.org/CVERecord?id=CVE-2024-6387" class="a-orange">CVE-2024-6387</a>)</p>
 
 <p>本脆弱性の影響は以下の通りです。</p>
 
@@ -37,6 +75,4 @@
 
 <p><code class="language-plaintext highlighter-rouge">index</code>の入力には<code class="language-plaintext highlighter-rouge">/music playlist_manager check name:[プレイリスト名]</code>でプレイリストの情報を確認する必要があります。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager remove name:[プレイリスト名] index:[削除する項目の番号]]]></summary></entry><entry><title type="html">コマンド紹介 - 再生キューの音楽をプレイリストに追加</title><link href="https://help.sina-chan.com/category/cmd-music/playlist-queue" rel="alternate" type="text/html" title="コマンド紹介 - 再生キューの音楽をプレイリストに追加" /><published>2024-04-12T01:50:00+00:00</published><updated>2024-04-12T01:50:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/playlist-queue</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/playlist-queue"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music playlist_manager get_queue name:[プレイリスト名]</code></p>
 
-<p>再生キューに入っている全ての音楽を指定したプレイリストに追加します。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager get_queue name:[プレイリスト名]]]></summary></entry><entry><title type="html">コマンド紹介 - プレイリスト削除</title><link href="https://help.sina-chan.com/category/cmd-music/playlist-delete" rel="alternate" type="text/html" title="コマンド紹介 - プレイリスト削除" /><published>2024-04-12T01:45:00+00:00</published><updated>2024-04-12T01:45:00+00:00</updated><id>https://help.sina-chan.com/category/cmd-music/playlist-delete</id><content type="html" xml:base="https://help.sina-chan.com/category/cmd-music/playlist-delete"><![CDATA[<p><code class="language-plaintext highlighter-rouge">/music playlist_manager delete name:[プレイリスト名]</code></p>
-
-<p>指定したプレイリストを削除します。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager delete name:[プレイリスト名]]]></summary></entry></feed>
+<p>再生キューに入っている全ての音楽を指定したプレイリストに追加します。</p>]]></content><author><name></name></author><category term="cmd-music" /><summary type="html"><![CDATA[/music playlist_manager get_queue name:[プレイリスト名]]]></summary></entry></feed>
