@@ -5,6 +5,12 @@ date: 2024-10-14 19:17 +0900
 category: "notice"
 ---
 
+> ##### WARNING
+>
+> Be sure that you're familiar with things like async/await and object destructuring
+> before continuing, as we'll be making use of features like these.
+{: .block-warning }
+
 明日第50回衆議院議員総選挙および第26回最高裁判所裁判官国民審査が告示されます。
 
 本選挙において、グローバルチャット・ボトルメールにて一部規制を実施します。
