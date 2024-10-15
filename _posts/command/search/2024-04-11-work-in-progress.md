@@ -9,8 +9,8 @@ category: "cmd-search"
 
 <a href="https://help.sina-chan.com" class="a-orange">トップに戻る</a>
 
-{% alert info %}
-This is a info!
+{% alert note %}
+This is a note!
 {% endalert %}
 
 {% alert tip %}
@@ -20,7 +20,6 @@ This is a tip!
 {% alert important %}
 This is important!
 {% endalert %}
-
 
 {% alert caution %}
 This is a caution!
