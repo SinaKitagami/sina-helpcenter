@@ -273,6 +273,14 @@
 <lastmod>2024-07-03T14:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>https://help.sina-chan.com/category/update-note/v4.0.0</loc>
+<lastmod>2025-04-20T10:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://help.sina-chan.com/category/notice/update-note</loc>
+<lastmod>2025-05-01T14:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://help.sina-chan.com/category.html</loc>
 </url>
 <url>
@@ -337,5 +345,8 @@
 </url>
 <url>
 <loc>https://help.sina-chan.com/category/cmd-level/</loc>
+</url>
+<url>
+<loc>https://help.sina-chan.com/category/update-note/</loc>
 </url>
 </urlset>
