@@ -89,7 +89,6 @@
     }
   }
   
-  'use strict'
   
   var _$Repository_4 = {
     put: put,
