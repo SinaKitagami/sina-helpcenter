@@ -35,7 +35,6 @@
     })
   }
   
-  'use strict';
   
   function fuzzysearch (needle, haystack) {
     var tlen = haystack.length;
