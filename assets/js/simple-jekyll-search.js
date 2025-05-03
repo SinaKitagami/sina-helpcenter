@@ -72,7 +72,6 @@
     }
   }
   
-  'use strict'
   
   var _$LiteralSearchStrategy_6 = new LiteralSearchStrategy()
   
