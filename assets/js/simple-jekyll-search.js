@@ -229,7 +229,6 @@
     return window.XMLHttpRequest ? new window.XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP')
   }
   
-  'use strict'
   
   var _$OptionsValidator_3 = function OptionsValidator (params) {
     if (!validateParams(params)) {
