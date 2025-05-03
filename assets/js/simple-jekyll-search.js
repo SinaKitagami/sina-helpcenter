@@ -60,7 +60,7 @@
   
   var _$fuzzysearch_1 = fuzzysearch;
   
-  'use strict'
+  
   
   /* removed: const _$fuzzysearch_1 = require('fuzzysearch') */;
   
