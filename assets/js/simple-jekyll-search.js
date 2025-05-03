@@ -264,8 +264,6 @@
     }
   }
   
-  'use strict'
-  
   var _$utils_9 = {
     merge: merge,
     isJSON: isJSON
