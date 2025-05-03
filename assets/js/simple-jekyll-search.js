@@ -200,8 +200,6 @@
   
   /* globals ActiveXObject:false */
   
-  'use strict'
-  
   var _$JSONLoader_2 = {
     load: load
   }
